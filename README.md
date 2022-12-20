@@ -32,7 +32,7 @@ EndFunc
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">🎬 Video</summary>
 
-  <video src="https://user-images.githubusercontent.com/29656921/208698872-52d2d7fc-1d58-4122-b95f-79f44f1ce5bc.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height: 480px;"></video>
+  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit" style="max-height: 480px;"></video>
 
 </details>
 
