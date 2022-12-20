@@ -75,6 +75,6 @@ EndFunc
 <details open class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">test</summary>
 
-  <video src="https://user-images.githubusercontent.com/29656921/208698200-be671ae5-5d1d-403c-b0ef-67d3bcab0503.mov" controls="controls" muted="false" class="d-block rounded-bottom-2 width-fit" style="max-height: 640px;"></video>
+  <video src="https://user-images.githubusercontent.com/29656921/208698872-52d2d7fc-1d58-4122-b95f-79f44f1ce5bc.mp4" controls="controls" muted="false" class="d-block rounded-bottom-2 width-fit" style="max-height: 640px;"></video>
 
 </details>
