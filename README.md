@@ -1,5 +1,3 @@
-#####
-
 ## AutoIt Tutorial: WebDriver
 
 > Dein Einstieg in das au3WebDriver Projekt.
@@ -11,11 +9,35 @@
 ![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
 
+<br>
+<br>
+<br>
+
 [Description](#description) | [Features](#features) | [Getting started](#getting-started) | [Configuration](#configuration) | [FAQ](#faq) | [Contributing](#contributing) | [License](#license) | [Acknowledgements](#acknowledgements)
 
 ## Description
 
 ...
+
+<br>
+
+## Features
+
+...
+
+<br>
+
+## Getting started
+
+...
+
+<br>
+
+## Configuration
+
+...
+
+<br>
 
 ## FAQ
 
@@ -39,6 +61,24 @@
   <br></p></details>
 
 </details>
+
+<br>
+
+## Contributing
+
+...
+
+<br>
+
+## License
+
+...
+
+<br>
+
+## Acknowledgements
+
+...
 
 ##
 
