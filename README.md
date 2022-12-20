@@ -38,30 +38,18 @@ Func _GetSumOfDigitsSquares($iNumber)
 EndFunc
 ```
 
-``` lua
-Func _GetSumOfDigitsSquares($iNumber)
-    Local $iDigitsCount = StringLen($iNumber)
-    Local $iSum
+![gif](https://www.sven-seyfert.de/news/Ardbeg.gif)
 
-    For $j = 1 To $iDigitsCount Step 1
-        $iSum += _GetSquare($iNumber, $j)
-    Next
+<br>
 
-    Return $iSum
-EndFunc
-```
+![video](https://file-examples.com/storage/feb5c4069563a1c5f9a9f33/2017/04/file_example_MP4_480_1_5MG.mp4)
 
-``` vb
-Func _GetSumOfDigitsSquares($iNumber)
-    Local $iDigitsCount = StringLen($iNumber)
-    Local $iSum
+<br>
 
-    For $j = 1 To $iDigitsCount Step 1
-        $iSum += _GetSquare($iNumber, $j)
-    Next
+![video](https://file-examples.com/storage/feb5c4069563a1c5f9a9f33/2017/04/file_example_MP4_480_1_5MG.mp4)
 
-    Return $iSum
-EndFunc
-```
+<br>
+
+https://file-examples.com/storage/feb5c4069563a1c5f9a9f33/2017/04/file_example_MP4_480_1_5MG.mp4
 
 [^1]: Fußnote ein.
