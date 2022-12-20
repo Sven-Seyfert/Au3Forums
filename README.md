@@ -1,48 +1,45 @@
-# Main title
+#####
 
-> Sub title
+## AutoIt Tutorial: WebDriver
 
-<br>
+> Dein Einstieg in das au3WebDriver Projekt.
 
-``` php
-Func _GetSumOfDigitsSquares($iNumber)
-    Local $iDigitsCount = StringLen($iNumber)
-    Local $iSum
+![markdown](https://img.shields.io/badge/Markdown-Tutorial-E34F26.svg?style=flat-square&logo=markdown&logoColor=E34F26)
+![created](https://img.shields.io/badge/Erstellt-20.12.2022-E535AB.svg?style=flat-square&logo=quip&logoColor=E535AB)
+![updated](https://img.shields.io/badge/Aktualisiert-20.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)
+![level](https://img.shields.io/badge/Level-Beginner-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
+![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)
+![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
 
-    For $j = 1 To $iDigitsCount Step 1
-        $iSum += _GetSquare($iNumber, $j)
-    Next
+[Description](#description) | [Features](#features) | [Getting started](#getting-started) | [Configuration](#configuration) | [FAQ](#faq) | [Contributing](#contributing) | [License](#license) | [Acknowledgements](#acknowledgements)
 
-    Return $iSum
-EndFunc
-```
-[^1]
+## Description
 
-<br>
+...
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🖼 Gif</summary>
+## FAQ
 
-  <img src="https://www.sven-seyfert.de/news/Ardbeg.gif" alt="gif" class="d-block rounded-bottom-2 width-fit">
+<details>
+<summary><i>Frequently Asked Questions</i></summary><br>
 
-</details>
+  <details>
+  <summary><code>1. How to [...]</code></summary><p>
 
-<br>
+  **Q:** Is there a frequently asked question already?<br>
+  **A:** No, not yet.
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🎬 Video</summary>
+  <br></p></details>
 
-  <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit"></video>
+  <details>
+  <summary><code>2. How to [...]</code></summary><p>
 
-</details>
+  **Q:** [...]?<br>
+  **A:** [...].
 
-<br>
-
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🔊 Audio</summary>
-
-  <audio src="https://user-images.githubusercontent.com/29656921/208698872-52d2d7fc-1d58-4122-b95f-79f44f1ce5bc.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit"></audio>
+  <br></p></details>
 
 </details>
 
-[^1]: Es ist "php" Syntax Highlighting, anstatt "autoit". AutoIt wird von GitHub Pages leider nicht unterstützt.
+##
+
+[To the top](#)
