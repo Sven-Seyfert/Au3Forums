@@ -10,11 +10,13 @@
 <h1 align="center">AutoIt Tutorial: WebDriver</h1>
 <h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
 
-| [Einführung](#einführung) |
+<br>
 
-| [Projektstruktur](#projektstruktur) | [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) |
+| [Einführung](#einführung) | [Projektstruktur](#projektstruktur) |
 
-| [Setup WebDriver](#setup-webdriver) | [Selektoren](#selektoren) | [Erste Anwendungsbeispiele](#erste-anwendungsbeispiele) | [Ausblick](#Ausblick) |
+| [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) | [Setup WebDriver](#setup-webdriver) |
+
+| [Selektoren](#selektoren) | [Erste Anwendungsbeispiele](#erste-anwendungsbeispiele) | [Weitere Verwendungsbeispiele](#weitere-verwendungsbeispiele) | [Ausblick](#Ausblick) |
 
 <br>
 <br>
@@ -28,7 +30,7 @@
 ...<br>
 ...<br>
 
-[⬆ nach oben ⬆](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -41,7 +43,7 @@
 ...<br>
 ...<br>
 
-[⬆ nach oben](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -54,7 +56,7 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -67,7 +69,7 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -100,7 +102,7 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -113,7 +115,7 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
 
 <br>
 
@@ -126,7 +128,20 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
+
+<br>
+
+## Weitere Verwendungsbeispiele
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[· ⇑ ·](#)
 
 <br>
 
@@ -139,4 +154,6 @@
 ...<br>
 ...<br>
 
-[Nach oben](#)
+[· ⇑ ·](#)
+
+<br>
