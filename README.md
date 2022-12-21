@@ -10,8 +10,10 @@
 <h1 align="center">AutoIt Tutorial: WebDriver</h1>
 <h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
 
-| [Einführung](#einführung) |<br>
-| [Projektstruktur](#projektstruktur) | [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) |<br>
+| [Einführung](#einführung) |
+
+| [Projektstruktur](#projektstruktur) | [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) |
+
 | [Setup WebDriver](#setup-webdriver) | [Selektoren](#selektoren) | [Erste Anwendungsbeispiele](#erste-anwendungsbeispiele) | [Ausblick](#Ausblick) |
 
 <br>
