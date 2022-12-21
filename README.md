@@ -1,8 +1,8 @@
 <br>
 
 ![markdown](https://img.shields.io/badge/Markdown-Tutorial-E34F26.svg?style=flat-square&logo=markdown&logoColor=E34F26)
-![created](https://img.shields.io/badge/Erstellt-20.12.2022-E535AB.svg?style=flat-square&logo=quip&logoColor=E535AB)
-![updated](https://img.shields.io/badge/Aktualisiert-20.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)<br>
+![published](https://img.shields.io/badge/Veröffentlicht-21.12.2022-E535AB.svg?style=flat-square&logo=quip&logoColor=E535AB)
+![updated](https://img.shields.io/badge/Aktualisiert-21.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)<br>
 ![level](https://img.shields.io/badge/Level-Beginner-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
 ![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)<br>
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
@@ -14,68 +14,90 @@
 
 <br>
 
-| [Einführung](#einführung) | [Projektstruktur](#projektstruktur) |
+| [Einführung](#➀-einführung) | [Projektstruktur](#➁-projektstruktur) |
 
-| [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) | [Setup](#setup) |
+| [Au3WebDriver](#➂-Au3WebDriver) | [Abhängigkeiten](#➃-abhängigkeiten) | [Setup](#➄-setup) |
 
-| [Selektoren](#selektoren) | [Anwendungsbeispiele](#anwendungsbeispiele) | [Ein Ausblick](#ein-ausblick) |
+| [Selektoren](#➅-selektoren) | [Anwendungsbeispiele](#➆-anwendungsbeispiele) | [Ein Ausblick](#➇-ein-ausblick) |
 
 <br>
 <br>
 
-## Einführung
+## ➀ Einführung
+
+### Absatz
 
 ...<br>
+
+### Absatz
+
 ...<br>
-...<br>
-...<br>
-...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
 
 <br>
 
-## Projektstruktur
+## ➁ Projektstruktur
+
+### Absatz
 
 ...<br>
-...<br>
-...<br>
-...<br>
-...<br>
-...<br>
 
-[· ⇑ ·](#)
-
-<br>
-
-## Au3WebDriver
+### Absatz
 
 ...<br>
-...<br>
-...<br>
-...<br>
-...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
 
 <br>
 
-## Abhängigkeiten
+## ➂ Au3WebDriver
+
+### Absatz
 
 ...<br>
+
+### Absatz
+
 ...<br>
-...<br>
-...<br>
-...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
 
 <br>
 
-## Setup
+## ➃ Abhängigkeiten
+
+### Absatz
+
+...<br>
+
+### Absatz
+
+...<br>
+
+### Kurze Zusammenfassung
+
+...<br>
+
+[· ⇑ ·](#)
+
+<br>
+
+## ➄ Setup
+
+### Absatz
 
 <details>
 <summary><i>Frequently Asked Questions</i></summary><br>
@@ -98,49 +120,68 @@
 
 </details>
 
+<br>
+
+### Absatz
+
 ...<br>
-...<br>
-...<br>
-...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
 
 <br>
 
-## Selektoren
+## ➅ Selektoren
+
+### Absatz
 
 ...<br>
-...<br>
-...<br>
-...<br>
-...<br>
-...<br>
 
-[· ⇑ ·](#)
-
-<br>
-
-## Anwendungsbeispiele
+### Absatz
 
 ...<br>
-...<br>
-...<br>
-...<br>
-...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
 
 <br>
 
-## Ein Ausblick
+## ➆ Anwendungsbeispiele
+
+### Absatz
 
 ...<br>
+
+### Absatz
+
 ...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
+
+[· ⇑ ·](#)
+
+<br>
+
+## ➇ Ein Ausblick
+
+### Absatz
+
 ...<br>
+
+### Absatz
+
 ...<br>
+
+### Kurze Zusammenfassung
+
 ...<br>
 
 [· ⇑ ·](#)
