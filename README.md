@@ -37,7 +37,7 @@ Im Grunde empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Di
 
 📊 Level-Tabelle
 
-| Level | Level name                             | Beschreibung                                                                           |
+| Level | Level-Name                             | Beschreibung                                                                           |
 | :---  | :---                                   | :---                                                                                   |
 | A1    | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
 | A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (mit Unterstützung) geschrieben                                      |
