@@ -103,7 +103,7 @@ Error qui ut nihil molestias voluptates ut odio dolorem.
 
 <br>
 
-### Funktionalitäten
+### Funktionalität
 
 Debitis assumenda magnam eos ab et pariatur ut qui.
 
@@ -151,32 +151,25 @@ Ab qui animi in odio ut non quam.
 
 ## ➄ Setup
 
-### Absatz
+### Log level setzen
 
-<details>
-<summary><i>Frequently Asked Questions</i></summary><br>
-
-  <details>
-  <summary><code>1. How to [...]</code></summary><p>
-
-  **Q:** Is there a frequently asked question already?<br>
-  **A:** No, not yet.
-
-  <br></p></details>
-
-  <details>
-  <summary><code>2. How to [...]</code></summary><p>
-
-  **Q:** [...]?<br>
-  **A:** [...].
-
-  <br></p></details>
-
-</details>
+Veritatis est dolorum et ut dolores dolores.
 
 <br>
 
-### Absatz
+### Driver Optionen setzen
+
+Veritatis est dolorum et ut dolores dolores.
+
+<br>
+
+### Driver Capabilities setzen
+
+Veritatis est dolorum et ut dolores dolores.
+
+<br>
+
+### Start und Teardown
 
 Veritatis est dolorum et ut dolores dolores.
 
