@@ -199,6 +199,12 @@ Id quia nulla facilis consequuntur suscipit ipsum.
 
 <br>
 
+### Browser DevTools
+
+Id quia nulla facilis consequuntur suscipit ipsum.
+
+<br>
+
 ### Kurze Zusammenfassung
 
 Quo dolorem natus vel praesentium dolorum dolor aut libero.
