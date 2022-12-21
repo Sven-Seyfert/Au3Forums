@@ -25,43 +25,43 @@
 
 ## ➀ Einführung
 
-### An wem richtet sich dieses Tutorial
+### 💡 An wem richtet sich dieses Tutorial
 
 Sit ea harum itaque in.
 
 <br>
 
-### Was erwartet dich
+### 💡 Was erwartet dich
 
 Voluptates animi odio porro eos omnis.
 
 <br>
 
-### Was solltest du danach kennen und können
+### 💡 Was solltest du danach kennen und können
 
 Voluptates animi odio porro eos omnis.
 
 <br>
 
-### Was ist WebDriver
+### 💡 Was ist WebDriver
 
 Voluptates animi odio porro eos omnis.
 
 <br>
 
-### Was ist das au3WebDriver Projekt
+### 💡 Was ist das au3WebDriver Projekt
 
 Voluptates animi odio porro eos omnis.
 
 <br>
 
-### Referenzen für mehr Details
+### 💡 Referenzen für mehr Details
 
 Dolor dolorem hic quia.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Dolor dolorem hic quia.
 
@@ -73,19 +73,19 @@ Dolor dolorem hic quia.
 
 ## ➁ Projektstruktur
 
-### Grundlegender Aufbau
+### 💡 Grundlegender Aufbau
 
 Natus excepturi asperiores nisi quis dicta pariatur repellendus.
 
 <br>
 
-### Modularisierung
+### 💡 Modularisierung
 
 Quo sed autem sapiente.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Sit deserunt dolores praesentium aspernatur deserunt consequatur vero.
 
@@ -97,19 +97,19 @@ Sit deserunt dolores praesentium aspernatur deserunt consequatur vero.
 
 ## ➂ Au3WebDriver
 
-### Das Projekt Repository
+### 💡 Das Projekt Repository
 
 Error qui ut nihil molestias voluptates ut odio dolorem.
 
 <br>
 
-### Funktionalität
+### 💡 Funktionalität
 
 Debitis assumenda magnam eos ab et pariatur ut qui.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Consequatur provident et ad eveniet id ut quam earum.
 
@@ -121,25 +121,25 @@ Consequatur provident et ad eveniet id ut quam earum.
 
 ## ➃ Abhängigkeiten
 
-### Json UDF
+### 💡 Json UDF
 
 Voluptates suscipit blanditiis aspernatur et minus.
 
 <br>
 
-### ChromeDriver und GeckoDriver
+### 💡 ChromeDriver und GeckoDriver
 
 Aliquam tenetur ipsam vero sunt libero nisi facilis.
 
 <br>
 
-### WinHttp UDF
+### 💡 WinHttp UDF
 
 Aliquam tenetur ipsam vero sunt libero nisi facilis.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Ab qui animi in odio ut non quam.
 
@@ -151,31 +151,31 @@ Ab qui animi in odio ut non quam.
 
 ## ➄ Setup
 
-### Log level setzen
+### 💡 Log level setzen
 
 Veritatis est dolorum et ut dolores dolores.
 
 <br>
 
-### Driver Optionen setzen
+### 💡 Driver Optionen setzen
 
 Veritatis est dolorum et ut dolores dolores.
 
 <br>
 
-### Driver Capabilities setzen
+### 💡 Driver Capabilities setzen
 
 Veritatis est dolorum et ut dolores dolores.
 
 <br>
 
-### Start und Teardown
+### 💡 Start und Teardown
 
 Veritatis est dolorum et ut dolores dolores.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Fugiat expedita ut itaque rem sit.
 
@@ -187,25 +187,25 @@ Fugiat expedita ut itaque rem sit.
 
 ## ➅ Selektoren
 
-### Locator-Strategien
+### 💡 Locator-Strategien
 
 Placeat at asperiores ipsum assumenda debitis accusantium esse.
 
 <br>
 
-### XPath
+### 💡 XPath
 
 Id quia nulla facilis consequuntur suscipit ipsum.
 
 <br>
 
-### Browser DevTools
+### 💡 Browser DevTools
 
 Id quia nulla facilis consequuntur suscipit ipsum.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Quo dolorem natus vel praesentium dolorum dolor aut libero.
 
@@ -217,49 +217,49 @@ Quo dolorem natus vel praesentium dolorum dolor aut libero.
 
 ## ➆ Anwendungsbeispiele
 
-### Navigation
+### 💡 Navigation
 
 Aut ut sed qui eligendi sit nesciunt aut.
 
 <br>
 
-### Elemente finden und klicken
+### 💡 Elemente finden und klicken
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Input Felder ausfüllen
+### 💡 Input Felder ausfüllen
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Auf Elemente warten
+### 💡 Auf Elemente warten
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Mehrere Elemente finden
+### 💡 Mehrere Elemente finden
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Browser headless laufen lassen
+### 💡 Browser headless laufen lassen
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Seiteninhalt exportiern
+### 💡 Seiteninhalt exportiern
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Voluptatem quasi praesentium quis vitae.
 
@@ -271,19 +271,19 @@ Voluptatem quasi praesentium quis vitae.
 
 ## ➇ Ein Ausblick
 
-### A
+### 💡 A
 
 Molestiae natus voluptatibus vel dicta omnis accusamus.
 
 <br>
 
-### B
+### 💡 B
 
 Soluta consequatur quo delectus culpa beatae excepturi velit repellat.
 
 <br>
 
-### Kurze Zusammenfassung
+### 💡 Kurze Zusammenfassung
 
 Ipsa quam qui quam quia vel iste.
 
