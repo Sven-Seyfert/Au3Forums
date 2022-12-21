@@ -7,8 +7,10 @@
 ![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)<br>
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
 
+<br>
+
 <h1 align="center">AutoIt Tutorial: WebDriver</h1>
-<h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
+<h3 align="center">Dein Einstieg in das "au3WebDriver" Projekt.</h3>
 
 <br>
 
@@ -16,7 +18,7 @@
 
 | [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) | [Setup WebDriver](#setup-webdriver) |
 
-| [Selektoren](#selektoren) | [Erste Anwendungsbeispiele](#erste-anwendungsbeispiele) | [Weitere Verwendungsbeispiele](#weitere-verwendungsbeispiele) | [Ausblick](#Ausblick) |
+| [Selektoren](#selektoren) | [Anwendungsbeispiele](#anwendungsbeispiele) | [Ein Ausblick](#ein-ausblick) |
 
 <br>
 <br>
@@ -119,7 +121,7 @@
 
 <br>
 
-## Erste Anwendungsbeispiele
+## Anwendungsbeispiele
 
 ...<br>
 ...<br>
@@ -132,20 +134,7 @@
 
 <br>
 
-## Weitere Verwendungsbeispiele
-
-...<br>
-...<br>
-...<br>
-...<br>
-...<br>
-...<br>
-
-[· ⇑ ·](#)
-
-<br>
-
-## Ausblick
+## Ein Ausblick
 
 ...<br>
 ...<br>
