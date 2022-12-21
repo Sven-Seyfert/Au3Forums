@@ -1,6 +1,3 @@
-<h1 align="center">AutoIt Tutorial: WebDriver</h1>
-<h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
-
 <br>
 <br>
 
@@ -10,6 +7,15 @@
 ![level](https://img.shields.io/badge/Level-Beginner-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
 ![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
+
+<br>
+<br>
+
+<h1 align="center">AutoIt Tutorial: WebDriver</h1>
+<h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
+
+<br>
+<br>
 
 [Eins](#eins) | [Zwei](#zwei) | [Drei](#drei) | [Vier](#view) | [Fünf](#fünf) | [Sechs](#sechs) | [Sieben](#sieben) | [Acht](#acht)
 
