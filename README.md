@@ -37,8 +37,9 @@ Wenn du dich bereits mit AutoIt wohl fühlst, doch noch keine Berührungspunkte 
 
 Du bist dir noch immer unsicher? Dann frage dich einmal ob du in der Vergangenheit mit der `IE.au3` UDF gearbeitet hast; ob du in irgendeiner Art und Weise einen Browser bzw. Webseiten automatisieren wolltest/musstest; ob du den Seiten Quellcode oder Teile davon extrahieren wolltest um die Informationen später weiter zu verarbeiten; ob du bspw. mit `InetGet()` nicht das Ergebnis bekommen hast, welches du dir erhofft hast? Dann ist dieses Tutorial deine Zeit wert. Auch wenn du sehr wahrscheinlich nicht alle Antworten auf deine konkreten Anwendungsfälle bekommen wirst, eröffnet dir dieses Tutorial neue Möglichkeiten bzgl. dieser oder anderer Fragestellungen im Bereich Web.
 
-Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch dir viel Spaß.<br>
-Als Einstufungshilfe soll die folgende Level-Tabelle dienen; ich empfehle für dieses Tutorial **Level B1 aufwärts** herum (siehe Level-Tabelle).
+Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch dir viel Spaß.
+
+Als Einstufungshilfe soll die folgende Level-Tabelle dienen; ich empfehle für dieses Tutorial **Level B1 aufwärts**.
 
 📊 Level-Tabelle
 
