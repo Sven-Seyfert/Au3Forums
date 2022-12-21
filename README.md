@@ -25,6 +25,19 @@
 
 ## ➀ Einführung
 
+<details open class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">🔊 Willkommen</summary><br>
+
+  <audio src="https://user-images.githubusercontent.com/29656921/208984828-c703c348-0b87-491e-8fb7-f6d069a285a5.mp4" controls="controls" class="d-block rounded-bottom-2 width-fit"></audio>
+
+</details>
+
+### 🔊 Willkommen
+
+<audio src="https://user-images.githubusercontent.com/29656921/208984828-c703c348-0b87-491e-8fb7-f6d069a285a5.mp4" controls="controls"></audio>
+
+<br>
+
 ### 📑 An wen richtet sich dieses Tutorial
 
 Et qui saepe quae quia quas. Ut totam tempora laborum eum hic blanditiis. At nobis nobis expedita modi rerum voluptatem. Voluptatem consequatur unde.
