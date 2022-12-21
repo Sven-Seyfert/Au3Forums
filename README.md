@@ -187,13 +187,13 @@ Fugiat expedita ut itaque rem sit.
 
 ## ➅ Selektoren
 
-### Absatz
+### Locator-Strategien
 
 Placeat at asperiores ipsum assumenda debitis accusantium esse.
 
 <br>
 
-### Absatz
+### XPath
 
 Id quia nulla facilis consequuntur suscipit ipsum.
 
@@ -211,13 +211,43 @@ Quo dolorem natus vel praesentium dolorum dolor aut libero.
 
 ## ➆ Anwendungsbeispiele
 
-### Absatz
+### Navigation
 
 Aut ut sed qui eligendi sit nesciunt aut.
 
 <br>
 
-### Absatz
+### Elemente finden und klicken
+
+Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
+
+<br>
+
+### Input Felder ausfüllen
+
+Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
+
+<br>
+
+### Auf Elemente warten
+
+Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
+
+<br>
+
+### Mehrere Elemente finden
+
+Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
+
+<br>
+
+### Browser headless laufen lassen
+
+Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
+
+<br>
+
+### Seiteninhalt exportiern
 
 Excepturi tempore amet velit nulla ut sint veritatis eos dolorum.
 
@@ -235,13 +265,13 @@ Voluptatem quasi praesentium quis vitae.
 
 ## ➇ Ein Ausblick
 
-### Absatz
+### A
 
 Molestiae natus voluptatibus vel dicta omnis accusamus.
 
 <br>
 
-### Absatz
+### B
 
 Soluta consequatur quo delectus culpa beatae excepturi velit repellat.
 
