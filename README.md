@@ -25,7 +25,7 @@
 
 ## ➀ Einführung
 
-### 📑 An wem richtet sich dieses Tutorial
+### 📑 An wen richtet sich dieses Tutorial
 
 Et qui saepe quae quia quas. Ut totam tempora laborum eum hic blanditiis. At nobis nobis expedita modi rerum voluptatem. Voluptatem consequatur unde.
 
@@ -37,7 +37,7 @@ Explicabo culpa libero unde beatae quasi. Quod necessitatibus dolorem veritatis 
 
 <br>
 
-### 📑 Was solltest du danach kennen und können
+### 📑 Was solltest du danach wissen und können
 
 Eos cupiditate totam optio architecto. Magni et voluptas fugit repudiandae eos eos. Magni officia fuga cupiditate magnam recusandae suscipit aut quo. Rerum sunt dolorum sunt ea ut dolores. Ea harum dolores quo ut. Placeat voluptatibus dolorem.
 
@@ -193,7 +193,7 @@ Qui odio recusandae corrupti aut itaque nihil non commodi odit. Nesciunt dolores
 
 <br>
 
-### 📑 XPath
+### 📑 Der XPath Selektor
 
 Praesentium aut repudiandae deleniti quibusdam qui dicta. Et laboriosam animi quisquam ea officia est. Perferendis optio qui omnis quos ad quas similique velit ipsam. Est non expedita. Nisi eligendi nobis quaerat reiciendis.
 
