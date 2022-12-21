@@ -3,7 +3,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-Tutorial-E34F26.svg?style=flat-square&logo=markdown&logoColor=E34F26)
 ![created](https://img.shields.io/badge/Erstellt-21.12.2022-E535AB.svg?style=flat-square&logo=quip&logoColor=E535AB)
 ![updated](https://img.shields.io/badge/Aktualisiert-21.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)<br>
-![level](https://img.shields.io/badge/Level-Beginner-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
+![level](https://img.shields.io/badge/Level-B1%20aufwärts-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
 ![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)<br>
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
 
@@ -38,6 +38,21 @@ Wenn du dich bereits mit AutoIt wohl fühlst, doch noch keine Berührungspunkte 
 Du bist dir noch immer unsicher? Dann frage dich einmal ob du in der Vergangenheit mit der `IE.au3` UDF gearbeitet hast; ob du in irgendeiner Art und Weise einen Browser bzw. Webseiten automatisieren wolltest/musstest; ob du den Seiten Quellcode oder Teile davon extrahieren wolltest um die Informationen später weiter zu verarbeiten; ob du bspw. mit `InetGet()` nicht das Ergebnis bekommen hast, welches du dir erhofft hast? Dann ist dieses Tutorial deine Zeit wert. Auch wenn du sehr wahrscheinlich nicht alle Antworten auf deine konkreten Anwendungsfälle bekommen wirst, eröffnet dir dieses Tutorial neue Möglichkeiten bzgl. dieser oder anderer Fragestellungen im Bereich Web.
 
 Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch dir viel Spaß.
+Das Tutorial richtet sich an Anwender um das Level B1 herum (siehe Level-Tabelle).
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">Level-Tabelle</summary>
+
+| Level | Level name                             | Beschreibung                                                                           |
+| :---  | :---                                   | :---                                                                                   |
+| A1    | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
+| A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (mit Unterstützung) geschrieben                                      |
+| B1    | Fortgeschrittener Anwender             | Kann die meisten Problemsituation selbstständig bewältigen                             |
+| B2    | Erfahrener Anwender                    | Kann komplexere Programme entwickeln                                                   |
+| C1    | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
+| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und vermitteln, weiter geben                  |
+
+</details>
 
 <br>
 
