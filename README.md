@@ -73,13 +73,13 @@ Dolor dolorem hic quia.
 
 ## ➁ Projektstruktur
 
-### Absatz
+### Grundlegender Aufbau
 
 Natus excepturi asperiores nisi quis dicta pariatur repellendus.
 
 <br>
 
-### Absatz
+### Modularisierung
 
 Quo sed autem sapiente.
 
