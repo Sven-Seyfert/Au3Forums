@@ -40,8 +40,7 @@ Du bist dir noch immer unsicher? Dann frage dich einmal ob du in der Vergangenhe
 Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch dir viel Spaß.<br>
 Als Einstufungshilfe soll die folgende Level-Tabelle dienen; ich empfehle für dieses Tutorial **Level B1 aufwärts** herum (siehe Level-Tabelle).
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Level-Tabelle</summary>
+📊 Level-Tabelle
 
 | Level | Level name                             | Beschreibung                                                                           |
 | :---  | :---                                   | :---                                                                                   |
