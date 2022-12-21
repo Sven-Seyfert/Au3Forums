@@ -16,7 +16,7 @@
 
 | [Einführung](#-einführung) | [Projektstruktur](#-projektstruktur) |
 
-| [Au3WebDriver](#-Au3WebDriver) | [Abhängigkeiten](#-abhängigkeiten) | [Setup](#-setup) |
+| [Au3WebDriver](#-au3webdriver) | [Abhängigkeiten](#-abhängigkeiten) | [Setup](#-setup) |
 
 | [Selektoren](#-selektoren) | [Anwendungsbeispiele](#-anwendungsbeispiele) | [Ein Ausblick](#-ein-ausblick) |
 
@@ -293,4 +293,4 @@ Pariatur eos natus. Occaecati et suscipit veniam. Recusandae tempora et dolor do
 
 <br>
 
-[· To the top ·](#)
+[· Nach oben ·](#)
