@@ -14,11 +14,11 @@
 
 <br>
 
-| [Einführung](#➀-einführung) | [Projektstruktur](#➁-projektstruktur) |
+| [Einführung](#-einführung) | [Projektstruktur](#-projektstruktur) |
 
-| [Au3WebDriver](#➂-Au3WebDriver) | [Abhängigkeiten](#➃-abhängigkeiten) | [Setup](#➄-setup) |
+| [Au3WebDriver](#-Au3WebDriver) | [Abhängigkeiten](#-abhängigkeiten) | [Setup](#-setup) |
 
-| [Selektoren](#➅-selektoren) | [Anwendungsbeispiele](#➆-anwendungsbeispiele) | [Ein Ausblick](#➇-ein-ausblick) |
+| [Selektoren](#-selektoren) | [Anwendungsbeispiele](#-anwendungsbeispiele) | [Ein Ausblick](#-ein-ausblick) |
 
 <br>
 <br>
