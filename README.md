@@ -52,8 +52,6 @@ Als Einstufungshilfe soll die folgende Level-Tabelle dienen; ich empfehle für d
 | C1    | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
 | C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und vermitteln, weiter geben                  |
 
-</details>
-
 <br>
 
 ### 📑 Was erwartet dich
