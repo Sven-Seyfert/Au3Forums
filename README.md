@@ -1,46 +1,79 @@
-<h1 align="center">AutoIt Tutorial: WebDriver</h1>
-<h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
-
-<br>
 <br>
 
 ![markdown](https://img.shields.io/badge/Markdown-Tutorial-E34F26.svg?style=flat-square&logo=markdown&logoColor=E34F26)
 ![created](https://img.shields.io/badge/Erstellt-20.12.2022-E535AB.svg?style=flat-square&logo=quip&logoColor=E535AB)
-![updated](https://img.shields.io/badge/Aktualisiert-20.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)
+![updated](https://img.shields.io/badge/Aktualisiert-20.12.2022-3C873A.svg?style=flat-square&logo=quip&logoColor=3C873A)<br>
 ![level](https://img.shields.io/badge/Level-Beginner-F0DB4F.svg?style=flat-square&logo=swarm&logoColor=F0DB4F)
-![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)
+![autoit](https://img.shields.io/badge/Sprache-AutoIt-61DBFB.svg?style=flat-square&logo=autodesk&logoColor=61DBFB)<br>
 ![windows](https://img.shields.io/badge/OS-Windows-6569B0.svg?style=flat-square&logo=windows&logoColor=6569B0)
 
-[Eins](#eins) | [Zwei](#zwei) | [Drei](#drei) | [Vier](#view) | [Fünf](#fünf) | [Sechs](#sechs) | [Sieben](#sieben) | [Acht](#acht)
+<h1 align="center">AutoIt Tutorial: WebDriver</h1>
+<h3 align="center">Dein Einstieg in das au3WebDriver Projekt.</h3>
+
+| [Einführung](#einführung) |<br>
+| [Projektstruktur](#projektstruktur) | [Au3WebDriver](#Au3WebDriver) | [Abhängigkeiten](#abhängigkeiten) |<br>
+| [Setup WebDriver](#setup-webdriver) | [Selektoren](#selektoren) | [Erste Anwendungsbeispiele](#erste-anwendungsbeispiele) | [Ausblick](#Ausblick) |
 
 <br>
 <br>
 
-## Eins
+## Einführung
 
-...
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
 
-<br>
+<div>
 
-## Zwei
+[Nach oben](#)
 
-...
-
-<br>
-
-## Drei
-
-...
-
-<br>
-
-## Vier
-
-...
+</div>
 
 <br>
 
-## Fünf
+## Projektstruktur
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
+
+<br>
+
+## Au3WebDriver
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
+
+<br>
+
+## Abhängigkeiten
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
+
+<br>
+
+## Setup WebDriver
 
 <details>
 <summary><i>Frequently Asked Questions</i></summary><br>
@@ -63,24 +96,49 @@
 
 </details>
 
-<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
 
-## Sechs
-
-...
-
-<br>
-
-## Sieben
-
-...
+[Nach oben](#)
 
 <br>
 
-## Acht
+## Selektoren
 
-...
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
 
 <br>
 
-[Nach oben 🔼](#)
+## Erste Anwendungsbeispiele
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
+
+<br>
+
+## Ausblick
+
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+...<br>
+
+[Nach oben](#)
