@@ -80,7 +80,7 @@ In the chapter [A outlook](#-a-outlook) you will find further topics that may be
 
 ### 📑 What should you know and be able to do afterwards
 
-Eos cupiditate totam optio architecto. Magni et voluptas fugit repudiandae eos eos. Magni officia fuga cupiditate magnam recusandae suscipit aut quo. Rerum sunt dolorum sunt ea ut dolores. Ea harum dolores quo ut. Placeat voluptatibus dolorem.
+After the tutorial, the setup, the integration of the WebDriver into your own project and the use of the au3WebDriver project should work for you. You will know what to look for to implement the first simple use cases. Furthermore you will know where you can find more information and how you can get more possibilities by using the demo ([wd_demo.au3](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)).
 
 <br>
 

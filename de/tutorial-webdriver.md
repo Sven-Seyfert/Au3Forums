@@ -80,7 +80,7 @@ Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in 
 
 ### 📑 Was solltest du danach wissen und können
 
-Eos cupiditate totam optio architecto. Magni et voluptas fugit repudiandae eos eos. Magni officia fuga cupiditate magnam recusandae suscipit aut quo. Rerum sunt dolorum sunt ea ut dolores. Ea harum dolores quo ut. Placeat voluptatibus dolorem.
+Nach dem Tutorial sollte die Einrichtung, die Integration des WebDriver in dein eigenes Projekt und die Nutzung des au3WebDriver Projekt bei dir funktionieren. Du wirst wissen auf was du achten musst, um die ersten einfachen Anwendungsfälle umzusetzen. Des Weiteren wirst du wissen wo du weitere Informationen finden kannst und wie du dich an Hand der Demo ([wd_demo.au3](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)) mit weiteren Möglichkeiten beschäftigen kannst.
 
 <br>
 
