@@ -56,9 +56,19 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 
 ### 📑 Was erwartet dich
 
-Du wirst die folgenden Dinge in diesem Tutorial kennen lernen:
+In diesem Tutorial werde ich auf die folgenden Schwerpunkte eingehen:
 
--
+- ...
+- ...
+- ...
+
+Auf die folgenden Schwerpunkte werde ich in diesem Tutorial nicht eingeben:
+
+- ...
+- ...
+- ...
+
+Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in folgenden Tutorials behandelt werden.
 
 <br>
 
