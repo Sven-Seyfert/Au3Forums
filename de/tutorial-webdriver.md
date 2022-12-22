@@ -56,7 +56,7 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 
 ### 📑 Was erwartet dich
 
-In diesem Tutorial werde ich auf die folgenden Schwerpunkte eingehen:
+In diesem Tutorial werde ich u. a. auf die folgenden Schwerpunkte eingehen:
 
 - Kurze Erläuterung zur W3C WebDriver Spezifikation.
 - Flexible Projektstruktur erstellen.
@@ -297,6 +297,12 @@ Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantiu
 ### 📑 Webseiten Quellcode exportiern
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
+
+<br>
+
+### 📑 Verwendung von POM (page object model)
+
+Porro reiciendis architecto quisquam sit.
 
 <br>
 

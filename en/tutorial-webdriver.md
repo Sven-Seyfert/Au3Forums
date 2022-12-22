@@ -56,7 +56,7 @@ I recommend this tutorial to users with **Level B1** and up. However, the level 
 
 ### 📑 What you can expect
 
-In this tutorial, I will cover the following key areas:
+In this tutorial, I will cover the following key areas, among others:
 
 - Short explanation of the W3C WebDriver specification.
 - Creation of a flexible project structure.
@@ -297,6 +297,12 @@ Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantiu
 ### 📑 Export website source code
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
+
+<br>
+
+### 📑 Usage of POM (page object model)
+
+Porro reiciendis architecto quisquam sit.
 
 <br>
 
