@@ -63,7 +63,7 @@ In diesem Tutorial werde ich auf die folgenden Schwerpunkte eingehen:
 - Wie nutzt du das au3WebDriver Projekt (samt Abhängigkeiten) für dich.
 - WebDriver Optionen und Funktionen.
 - XPath Selektoren aufbauen und nutzen.
-- Anwendungsfälle wie Navigation, Interaktion mit Elementen und der Browser headless Modus.
+- Anwendungsfälle wie Navigation, Interaktion mit Elementen, die Verwendung des Browser headless Modus und mehr.
 - Webseiten Quellcode exportieren.
 - Page Object Model für weniger Redundanz, mehr Struktur und Übersicht.
 

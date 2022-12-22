@@ -58,12 +58,12 @@ I recommend this tutorial to users with **Level B1** and up. However, the level 
 
 In this tutorial, I will cover the following key areas:
 
-- Brief explanation of the W3C WebDriver specification.
+- Short explanation of the W3C WebDriver specification.
 - Creation of a flexible project structure.
 - How do you use the au3WebDriver project (including dependencies) for yourself.
 - WebDriver options and features.
 - Build and use XPath selectors.
-- Use cases such as navigation, interaction with elements and the browser headless mode.
+- Use cases such as navigation, interaction with elements, usage of the browser headless mode and more.
 - Export pages source code.
 - Page Object Model for less redundancy, more structure and overview.
 
