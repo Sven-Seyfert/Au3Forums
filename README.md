@@ -33,11 +33,11 @@
 
 ### 📑 An wen richtet sich dieses Tutorial
 
-Im Grunde empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Dies stellt jedoch nur eine Einstufungshilfe (Level-Tabelle) dar und muss nicht als gegeben betrachtet werden.
+Im Grunde empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Da die Level-Tabelle allerdings nur eine Einstufungshilfe darstellt, ist dies auch nicht zu ernst zu nehmen - traue dich ruhig.
 
 📊 Level-Tabelle
 
-| Level | Level-Name                             | Beschreibung                                                                           |
+| Level | Bezeichnung                            | Beschreibung                                                                           |
 | :---  | :---                                   | :---                                                                                   |
 | A1    | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
 | A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (mit Unterstützung) geschrieben                                      |
