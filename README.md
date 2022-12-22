@@ -50,7 +50,7 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 | B1    | Fortgeschrittener Anwender             | Kann die meisten Problemstellungen selbstständig bewältigen                            |
 | B2    | Erfahrener Anwender                    | Kann komplexere Programme entwickeln                                                   |
 | C1    | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
-| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und vermitteln/weiter geben                   |
+| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und fundiert weiter geben (vermitteln)        |
 
 <br>
 
