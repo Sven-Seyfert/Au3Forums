@@ -59,17 +59,20 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 In diesem Tutorial werde ich auf die folgenden Schwerpunkte eingehen:
 
 - Kurze Erläuterung zur W3C WebDriver Spezifikation.
-- Wie nutzt du das au3WebDriver Projekt für dich.
-- Projektstruktur ...
-- ...
-- ...
-- ...
+- Flexible Projektstruktur erstellen.
+- Wie nutzt du das au3WebDriver Projekt (samt Abhängigkeiten) für dich.
+- WebDriver Optionen und Funktionen.
+- XPath Selektoren aufbauen und nutzen.
+- Anwendungsfälle wie Navigation, Interaktion mit Elementen und der Browser headless Modus.
+- Webseiten Quellcode exportieren.
+- Page Object Model für weniger Redundanz, mehr Struktur und Übersicht.
 
 Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
 
-- ...
-- ...
-- ...
+- Was ist CDP (Chrome DevTools Protocol) und wie wird damit umgegangen?
+- Helfer-Tools wie ChroPath (um die Erstellung von XPath-Selektoren zu vereinfachen).
+- Wie wird eine Verbindung zu einer laufenden Browserinstanz hergestellt.
+- Wie halten ich meine WebDriver-Umgebung auf dem neuesten Stand (auf automatisierte Weise).
 
 Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in folgenden Tutorials behandelt werden.
 
@@ -291,7 +294,7 @@ Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantiu
 
 <br>
 
-### 📑 Seiteninhalt exportiern
+### 📑 Webseiten Quellcode exportiern
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 
