@@ -18,7 +18,7 @@
 
 | [Au3WebDriver](#-au3webdriver) | [Dependencies](#-dependencies) | [Setup](#-setup) |
 
-| [Selectors](#-selectors) | [Use cases](#-use-cases) | [A outlook](#-a-outlook) |
+| [Selectors](#-selectors) | [Some use cases](#-some-use-cases) | [Possible preview](#-possible-preview) |
 
 <br>
 <br>
@@ -63,7 +63,7 @@ In this tutorial, I will cover the following key areas, among others:
 - How do you use the au3WebDriver project (including dependencies) for yourself.
 - WebDriver options and features.
 - Build and use XPath selectors.
-- Use cases such as navigation, interaction with elements, usage of the browser headless mode and more.
+- Some use cases such as navigation, interaction with elements, usage of the browser headless mode and more.
 - Export pages source code.
 - Page Object Model for less redundancy, more structure and overview.
 
@@ -74,7 +74,7 @@ I will **not** address the following key areas in this tutorial:
 - How to connect to a running browser instance.
 - How to keep the WebDriver environment up-to-date (the automated way).
 
-In the chapter [A outlook](#-a-outlook) you will find further topics that may be covered in following tutorials.
+In the chapter [Possible preview](#-possible-preview) you will find further topics that may be covered in following tutorials.
 
 <br>
 
@@ -260,7 +260,7 @@ Tenetur voluptatem officia eum voluptatum nulla dolores occaecati natus quo. Ame
 
 <br>
 
-## ➆ Use cases
+## ➆ Some use cases
 
 ### 📑 Navigation
 
@@ -316,11 +316,11 @@ Impedit est aperiam. Facilis temporibus molestiae perferendis unde a. Laudantium
 
 <br>
 
-[· ⇑ ·](#-use-cases)
+[· ⇑ ·](#-some-use-cases)
 
 <br>
 
-## ➇ A outlook
+## ➇ Possible preview
 
 ### 📑 A
 
@@ -340,7 +340,7 @@ Pariatur eos natus. Occaecati et suscipit veniam. Recusandae tempora et dolor do
 
 <br>
 
-[· ⇑ ·](#-a-outlook)
+[· ⇑ ·](#-possible-preview)
 
 <br>
 
