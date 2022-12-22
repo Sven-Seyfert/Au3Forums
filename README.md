@@ -43,20 +43,22 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 
 📊 Level-Tabelle (Kontext AutoIt)
 
-| Level | Bezeichnung                            | Beschreibung                                                                           |
-| :---  | :---                                   | :---                                                                                   |
-| A1    | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
-| A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (meist noch mit Unterstützung) geschrieben                           |
-| B1    | Fortgeschrittener Anwender             | Kann die meisten Problemstellungen selbstständig bewältigen                            |
-| B2    | Erfahrener Anwender                    | Kann komplexere Programme entwickeln                                                   |
-| C1    | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
-| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und fundiert weiter geben (vermitteln)        |
+| Level  | Bezeichnung                            | Beschreibung                                                                           |
+| :---   | :---                                   | :---                                                                                   |
+| A1     | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
+| A2     | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (meist noch mit Unterstützung) geschrieben                           |
+| **B1** | Fortgeschrittener Anwender             | Kann die meisten Problemstellungen selbstständig bewältigen                            |
+| B2     | Erfahrener Anwender                    | Kann komplexere Programme entwickeln                                                   |
+| C1     | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
+| C2     | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und fundiert weiter geben (vermitteln)        |
 
 <br>
 
 ### 📑 Was erwartet dich
 
-Explicabo culpa libero unde beatae quasi. Quod necessitatibus dolorem veritatis doloribus mollitia sequi tempora dolor. Velit molestiae nam numquam. Doloribus veniam unde voluptatibus.
+Du wirst die folgenden Dinge in diesem Tutorial kennen lernen:
+
+-
 
 <br>
 
