@@ -46,7 +46,7 @@ I recommend this tutorial to users with **Level B1** and up. However, the level 
 | Level  | Designation                | Description                                                               |
 | :---   | :---                       | :---                                                                      |
 | A1     | Beginner                   | Started with AutoIt and its concepts                                      |
-| A2     | Users with basic knowledge | Wrote first scripts (mostly with support).                                |
+| A2     | Users with basic knowledge | Wrote first scripts (mostly with support)                                 |
 | **B1** | Advanced user              | Can deal with first problems independently                                |
 | B2     | Experienced user           | Can develop more complex programs                                         |
 | C1     | Skilled user               | Can apply his broad AutoIt knowledge in areas like backend, frontend, API |
@@ -99,7 +99,7 @@ Qui et id nihil odit enim. Nobis est quo. Est assumenda dolorem cum impedit quam
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Quaerat cupiditate nulla nisi quod. Ut debitis est placeat dolor ipsa corrupti ut reprehenderit inventore. Consequuntur earum saepe rerum autem laborum. Neque sed voluptatem nihil est enim. Consectetur et assumenda adipisci quisquam veritatis cumque.
 
@@ -123,7 +123,7 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Sit placeat quos sed voluptate assumenda voluptate voluptas. Rerum aliquid laborum molestias et repellendus qui enim dolore similique. Et magni dolor sint.
 
@@ -147,7 +147,7 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Quod minima et explicabo laboriosam vel animi quasi occaecati voluptate. Qui natus natus repellendus magni sed dolor veniam. Eum laborum ab officia soluta libero enim officiis.
 
@@ -177,7 +177,7 @@ Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur 
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Quae tenetur ab et quo et sit illum similique deleniti. Impedit et saepe autem. Corporis nesciunt magnam omnis eaque. Facilis incidunt sint asperiores incidunt asperiores voluptatibus ad et quisquam. Ut rerum numquam numquam quo qui perspiciatis sapiente accusantium corporis.
 
@@ -213,7 +213,7 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Et nobis voluptas et sint soluta omnis dolores. Facilis suscipit tenetur temporibus consequatur neque nihil sint sunt maiores. Laborum nemo nihil aliquam qui commodi est. Animi molestias inventore. Nemo ullam aut dolorem totam ut minus tempora quia est. Maiores magnam tempora sit totam ex provident et ea.
 
@@ -231,7 +231,7 @@ Qui odio recusandae corrupti aut itaque nihil non commodi odit. Nesciunt dolores
 
 <br>
 
-### 📑 The XPath selector
+### 📑 XPath
 
 Praesentium aut repudiandae deleniti quibusdam qui dicta. Et laboriosam animi quisquam ea officia est. Perferendis optio qui omnis quos ad quas similique velit ipsam. Est non expedita. Nisi eligendi nobis quaerat reiciendis.
 
@@ -243,7 +243,7 @@ Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntu
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Tenetur voluptatem officia eum voluptatum nulla dolores occaecati natus quo. Amet est ipsum quod pariatur quia ea qui culpa. Tempore accusantium rerum amet qui vel odit vitae tempora nisi. Ipsum voluptate nesciunt dolores. Est similique dolor.
 
@@ -297,7 +297,7 @@ Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Impedit est aperiam. Facilis temporibus molestiae perferendis unde a. Laudantium voluptas in rerum enim ab quia architecto dignissimos. Beatae amet enim similique soluta fugiat sed debitis aut.
 
@@ -321,7 +321,7 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 
 <br>
 
-### 📑 Short Summary
+### 📑 Short summary
 
 Pariatur eos natus. Occaecati et suscipit veniam. Recusandae tempora et dolor dolorem. Quos totam deleniti fuga laboriosam. Dolores vel aliquam eveniet ut reprehenderit atque magnam consequuntur quaerat. Magni fugit ut ut corrupti quia est.
 
@@ -331,4 +331,4 @@ Pariatur eos natus. Occaecati et suscipit veniam. Recusandae tempora et dolor do
 
 <br>
 
-[· Nach oben ·](#)
+[· To the top ·](#)

@@ -231,7 +231,7 @@ Qui odio recusandae corrupti aut itaque nihil non commodi odit. Nesciunt dolores
 
 <br>
 
-### 📑 Der XPath Selektor
+### 📑 XPath
 
 Praesentium aut repudiandae deleniti quibusdam qui dicta. Et laboriosam animi quisquam ea officia est. Perferendis optio qui omnis quos ad quas similique velit ipsam. Est non expedita. Nisi eligendi nobis quaerat reiciendis.
 
