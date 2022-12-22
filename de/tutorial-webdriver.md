@@ -90,7 +90,9 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 🏷 In wenigen Sätzen: WebDriver ist ein Client-Server-Protokoll was dir die Voraussetzung zur Automatisierung eines Browsers schafft. Clients senden Anforderungen, der Server interpretiert diese gemäß dem Wire-Protokoll und führt dann das Automatisierungsverhalten aus, welches durch die Implementierungsschritte in der Spezifikation definiert ist. Die WebDriver Spezifikation ermöglicht es, auf Grund definierter Endpunkte (und derer Eingaben und Ausgaben), so genannte Client-Bibliotheken zu implementieren um in verschiedenen Programmiersprachen und Plattform unabhängig, das Verhalten des Browsers zu steuern (den Browser zu automatisieren).
 
-🏷 Grundlegender Aufbau (Architektur): ...
+🏷 Grundlegender Aufbau (Architektur): Eine WebDriver-Sitzung, deren Zustand über Anforderungen hinweg durch ein "session id" Token aufrechterhalten wird, wird von Server und Client gemeinsam genutzt. Das Erstellen einer neuen Sitzung beinhaltet das Senden von Parametern in Form von [Capabilities](#-set-driver-capabilities), die dem Server mitteilen, was du unter welchen Bedingungen automatisieren möchten. Der Server bereitet den entsprechenden Browser mit allen Modifikationen vor, wie in den Capabilities angegeben, und die Sitzung läuft dann weiter. Automatisierungsbefehle und -antworten werden hin und her gesendet (gebunden an die session id), bis der Client eine Anforderung zum Löschen der Sitzung sendet, woraufhin der Browser und andere Ressourcen beendet oder bereinigt werden und die session id verworfen wird.
+
+🏷 Was hat dies alles zur Folge bzgl. AutoIt: ...
 
 <br>
 

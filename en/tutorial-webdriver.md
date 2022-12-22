@@ -90,7 +90,9 @@ I really want to simplify the **W3C WebDriver Specification** down to a understa
 
 🏷 In view sentenses: WebDriver is a client-server protocol that allows you to automate web browsers. Clients send requests, the server interprets them according to the wire protocol and then performs the automation behaviors as defined by the implementation steps in the specification. The WebDriver specification allows you, based on defined endpoints (and their inputs and outputs), to implement so-called client libraries in different programming languages and platforms independently, in order to control the behavior of the browser (automate the browser).
 
-🏷 Basic structure (architecture): ...
+🏷 Basic structure (architecture): A WebDriver session which state is maintained across requests by a "session id" token is shared by the server and client. Creating a new session involves sending parameters in the form of [capabilities](#-set-driver-capabilities), which tell the server what you want to automate and under which conditions. The server prepares the appropriate browser with any modifications as specified in the capabilities, and the session is then on going. Automation commands and responses are sent back and forth (bound on the session id), until the client sends a request to delete the session, at which point the browser and other resources are quit or cleaned up and the session id is discarded.
+
+🏷 What does this mean for AutoIt: ...
 
 <br>
 
