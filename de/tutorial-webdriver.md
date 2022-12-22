@@ -27,9 +27,7 @@
 
 ### 🔊 Willkommen
 
-<audio src="https://user-images.githubusercontent.com/29656921/208984828-c703c348-0b87-491e-8fb7-f6d069a285a5.mp4" controls="controls"></audio>
-
-<audio src="/de/media/audio/01-01-introduction.mp3" controls="controls"></audio>
+<audio src="./media/audio/01-01-introduction.mp3" controls="controls"></audio>
 
 <br>
 
