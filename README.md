@@ -41,16 +41,16 @@ Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert b
 
 An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die Level-Tabelle dient jedoch nur der Orientierung und stellt eine Einstufungshilfe dar, daher lass dich nicht verunsichern und traue dich einfach.
 
-📊 Level-Tabelle
+📊 Level-Tabelle (Kontext AutoIt)
 
 | Level | Bezeichnung                            | Beschreibung                                                                           |
 | :---  | :---                                   | :---                                                                                   |
 | A1    | Anfänger                               | Hat mit AutoIt und seinen Konzepten begonnen                                           |
-| A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (mit Unterstützung) geschrieben                                      |
-| B1    | Fortgeschrittener Anwender             | Kann die meisten Problemsituation selbstständig bewältigen                             |
+| A2    | Anwender mit grundlegenden Kenntnissen | Hat erste Skripte (meist noch mit Unterstützung) geschrieben                           |
+| B1    | Fortgeschrittener Anwender             | Kann die meisten Problemstellungen selbstständig bewältigen                            |
 | B2    | Erfahrener Anwender                    | Kann komplexere Programme entwickeln                                                   |
 | C1    | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen für diverse Bereiche einsetzen (backend, frontend, API) |
-| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und vermitteln, weiter geben                  |
+| C2    | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und vermitteln/weiter geben                   |
 
 <br>
 
