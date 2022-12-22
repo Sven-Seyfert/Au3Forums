@@ -90,14 +90,6 @@ I really want to simplify the **W3C WebDriver Specification** down to a understa
 
 🔖 In view sentenses: WebDriver is a client-server protocol that allows you to automate web browsers. Clients send requests, the server interprets them according to the wire protocol and then performs the automation behaviors as defined by the implementation steps in the specification. The WebDriver specification allows you, based on defined endpoints (and their inputs and outputs), to implement so-called client libraries in different programming languages and platforms independently, in order to control the behavior of the browser (automate the browser).
 
-🔖
-
-
-
-Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level herunterbrechen, ohne weitere Erklärungen oder tiefere Beschreibungen zum Wire-Protokoll und dessen Kommunikation bzw. Transfer-Weg (über Anfragen und Antworten (requests und responses)). Im Abschnitt weiter unten [Referenzen für mehr Details](#referenzen-für-mehr-details) findest du die offizielle Spezifikation und Definition zum WebDriver. Auch die Architektur des Wire-Protokolls ist für dieses praxisnahe Tutorial nicht so wichtig. Einen kleinen Einblick geben ist dennoch gleich.
-
-🔖 In wenigen Sätzen: WebDriver ist ein Client-Server-Protokoll was dir die Voraussetzung zur Automatisierung eines Browsers schafft. Clients senden Anforderungen, der Server interpretiert diese gemäß dem Wire-Protokoll und führt dann das Automatisierungsverhalten aus, welches durch die Implementierungsschritte in der Spezifikation definiert ist. Die WebDriver Spezifikation ermöglicht es, auf Grund definierter Endpunkte (und derer Eingaben und Ausgaben), so genannte Client-Bibliotheken zu implementieren um in verschiedenen Programmiersprachen und Plattform unabhängig, das Verhalten des Browsers zu steuern (den Browser zu automatisieren).
-
 🔖 Basic structure (architecture): ...
 
 <br>
