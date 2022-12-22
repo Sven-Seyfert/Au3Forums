@@ -37,7 +37,7 @@ Wenn du dich bereits mit AutoIt wohl fühlst, doch noch keine Berührungspunkte 
 
 Du bist dir noch immer unsicher? Dann frage dich einmal ob du in der Vergangenheit mit der `IE.au3` UDF gearbeitet hast; ob du in irgendeiner Art und Weise einen Browser bzw. Webseiten automatisieren wolltest/musstest; ob du den Seiten Quellcode oder Teile davon extrahieren wolltest um die Informationen später weiter zu verarbeiten; ob du bspw. mit `InetGet()` nicht das Ergebnis bekommen hast, welches du dir erhofft hast? Dann ist dieses Tutorial deine Zeit wert. Auch wenn du sehr wahrscheinlich nicht alle Antworten auf deine konkreten Anwendungsfälle bekommen wirst, eröffnet dir dieses Tutorial neue Möglichkeiten bzgl. dieser oder anderer Fragestellungen im Bereich WEB.
 
-Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch dir viel Spaß.
+Falls hiervon nichts bisher auf dich zu trifft und du einfach nur interessiert bist um was es geht, dann auch für dich: viel Spaß.
 
 An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die Level-Tabelle dient jedoch nur der Orientierung und stellt eine Einstufungshilfe dar, daher lass dich nicht verunsichern und traue dich einfach.
 
@@ -60,7 +60,10 @@ In diesem Tutorial werde ich auf die folgenden Schwerpunkte eingehen:
 
 - Kurze Erläuterung zur W3C WebDriver Spezifikation.
 - Wie nutzt du das au3WebDriver Projekt für dich.
-- Projektstruktur au
+- Projektstruktur ...
+- ...
+- ...
+- ...
 
 Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
 
