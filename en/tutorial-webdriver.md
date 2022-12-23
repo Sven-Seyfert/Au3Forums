@@ -156,7 +156,7 @@ Downloads:
 
 ### 📑 Basic structure
 
-First, we create the project folder which is called **Tutorial** in this example. This folder gets the following seven subfolders (see screenshot).
+First, we create the project folder which is called **Tutorial** in this example. This folder gets the following seven subfolders.
 
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">🖼 Project folder</summary>

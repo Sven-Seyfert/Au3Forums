@@ -156,7 +156,7 @@ Downloads:
 
 ### 📑 Grundlegender Aufbau
 
-Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** heißt. Dieser Ordner erhält die folgenden sieben Unterordner (siehe Screenshot).
+Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** heißt. Dieser Ordner erhält die folgenden sieben Unterordner.
 
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">🖼 Projekt Ordner</summary>
