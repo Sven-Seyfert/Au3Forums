@@ -156,7 +156,14 @@ Downloads:
 
 ### 📑 Basic structure
 
-Maxime temporibus sint autem rerum velit rerum ex. Consequatur quo perferendis consequatur inventore. Laboriosam esse assumenda aut architecto vel accusamus quia voluptas similique. Vero autem qui a. Impedit mollitia iure ut qui.
+First, we create the project folder which is called **Tutorial** in this example. This folder gets the following seven subfolders (see screenshot).
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">🖼 Project folder</summary>
+
+  <img src="./media/images/project-folder.jpg" alt="project-folder" class="d-block rounded-bottom-2 width-fit">
+
+</details>
 
 <br>
 
