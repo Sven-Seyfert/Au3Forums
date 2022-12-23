@@ -64,6 +64,7 @@ In diesem Tutorial werde ich u. a. auf die folgenden Schwerpunkte eingehen:
 - WebDriver Optionen und Funktionen.
 - XPath Selektoren aufbauen und nutzen.
 - Anwendungsfälle wie Navigation, Interaktion mit Elementen, die Verwendung des Browser headless Modus und mehr.
+- Wie geht man mit mehreren Browser Tabs um.
 - Abrufen des Seitenquellcodes.
 - Page Object Model für weniger Redundanz, mehr Struktur und Übersicht.
 
@@ -107,12 +108,13 @@ Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Sp
 
 Referenzen:
 
-|                                                                                                                      | Referenzen                                                                       | Beschreibung                                                                                     |
-| :---:                                                                                                                | :---                                                                             | :---                                                                                             |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                 | Offizielle W3C WebDriver Spezifikation.                                                          |
-| 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                    | Weitere Informationen zur UDF/zum Projekt (big picture, capabilities, troubleshooting und mehr). |
-| 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm) | Funktionen CHM Hilfe Datei welche beim UDF downlaod mit dabei ist.                               |
-| 🧾                                                                                                                   | [Endpunkte](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)      | Liste aller Endpunkte und ihrer Verwendungen.                                                    |
+|                                                                                                                      | Referenzen                                                                              | Beschreibung                                                                                                  |
+| :---:                                                                                                                | :---                                                                                    | :---                                                                                                          |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                        | Offizielle W3C WebDriver Spezifikation.                                                                       |
+| 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                           | Weitere Informationen zur UDF/zum Projekt (big picture, capabilities, troubleshooting und mehr).              |
+| 📚                                                                                                                   | [WebDriver Diskussions-Threads](https://www.autoitscript.com/wiki/WebDriver#References) | Sieh dir den Abschnitt "References" im Wiki an, welcher die relevanten Forum Threads zum WebDriver auflistet. |
+| 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm)        | Funktionen CHM Hilfe Datei welche beim UDF downlaod mit dabei ist.                                            |
+| 🧾                                                                                                                   | [Endpunkte](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)             | Liste aller Endpunkte und ihrer Verwendungen.                                                                 |
 
 Downloads:
 
@@ -306,6 +308,12 @@ Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ip
 <br>
 
 ### 📑 Mehrere Elemente finden
+
+Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+<br>
+
+### 📑 Umgang mit mehreren Browser Tabs
 
 Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
 
