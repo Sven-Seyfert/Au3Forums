@@ -161,7 +161,16 @@ Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** hei
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">🖼 Projekt Ordner</summary>
 
-  <img src="./media/images/project-folder.jpg" alt="project-folder" class="d-block rounded-bottom-2 width-fit">
+  <img src="./media/images/project-folders.jpg" alt="project-folders" class="d-block rounded-bottom-2 width-fit">
+
+</details>
+
+Nun bekommen die Ordner **lib** und **util** noch Unterordner.
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">🖼 Unterordner</summary>
+
+  <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
 </details>
 
