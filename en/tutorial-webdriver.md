@@ -142,7 +142,7 @@ Downloads:
 
 <br>
 
-[· ⇑ ·](#-introduction)
+[· to the chapter start ·](#-introduction)
 
 <br>
 
@@ -166,7 +166,7 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 <br>
 
-[· ⇑ ·](#-project-structure)
+[· to the chapter start ·](#-project-structure)
 
 <br>
 
@@ -190,7 +190,7 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 
 <br>
 
-[· ⇑ ·](#-au3webdriver)
+[· to the chapter start ·](#-au3webdriver)
 
 <br>
 
@@ -220,7 +220,7 @@ Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur 
 
 <br>
 
-[· ⇑ ·](#-dependencies)
+[· to the chapter start ·](#-dependencies)
 
 <br>
 
@@ -256,7 +256,7 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 <br>
 
-[· ⇑ ·](#-setup)
+[· to the chapter start ·](#-setup)
 
 <br>
 
@@ -286,7 +286,7 @@ Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntu
 
 <br>
 
-[· ⇑ ·](#-selectors)
+[· to the chapter start ·](#-selectors)
 
 <br>
 
@@ -352,7 +352,7 @@ Porro reiciendis architecto quisquam sit.
 
 <br>
 
-[· ⇑ ·](#-some-use-cases)
+[· to the chapter start ·](#-some-use-cases)
 
 <br>
 
@@ -376,8 +376,8 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 
 <br>
 
-[· ⇑ ·](#-possible-preview)
+[· to the chapter start ·](#-possible-preview)
 
 <br>
 
-[· To the top ·](#)
+[· to the top ·](#)

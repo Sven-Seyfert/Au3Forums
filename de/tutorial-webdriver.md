@@ -142,7 +142,7 @@ Downloads:
 
 <br>
 
-[· ⇑ ·](#-einführung)
+[· zum Kapitelanfang ·](#-einführung)
 
 <br>
 
@@ -166,7 +166,7 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 <br>
 
-[· ⇑ ·](#-projektstruktur)
+[· zum Kapitelanfang ·](#-projektstruktur)
 
 <br>
 
@@ -190,7 +190,7 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 
 <br>
 
-[· ⇑ ·](#-au3webdriver)
+[· zum Kapitelanfang ·](#-au3webdriver)
 
 <br>
 
@@ -220,7 +220,7 @@ Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur 
 
 <br>
 
-[· ⇑ ·](#-abhängigkeiten)
+[· zum Kapitelanfang ·](#-abhängigkeiten)
 
 <br>
 
@@ -256,7 +256,7 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 <br>
 
-[· ⇑ ·](#-setup)
+[· zum Kapitelanfang ·](#-setup)
 
 <br>
 
@@ -286,7 +286,7 @@ Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntu
 
 <br>
 
-[· ⇑ ·](#-selektoren)
+[· zum Kapitelanfang ·](#-selektoren)
 
 <br>
 
@@ -352,7 +352,7 @@ Porro reiciendis architecto quisquam sit.
 
 <br>
 
-[· ⇑ ·](#-anwendungsbeispiele)
+[· zum Kapitelanfang ·](#-anwendungsbeispiele)
 
 <br>
 
@@ -376,8 +376,8 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 
 <br>
 
-[· ⇑ ·](#-ein-ausblick)
+[· zum Kapitelanfang ·](#-ein-ausblick)
 
 <br>
 
-[· Nach oben ·](#)
+[· ganz nach oben ·](#)
