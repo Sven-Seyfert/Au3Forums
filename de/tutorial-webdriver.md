@@ -165,6 +165,8 @@ Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** hei
 
 </details>
 
+<br>
+
 Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 <details class="details-reset border rounded-2">

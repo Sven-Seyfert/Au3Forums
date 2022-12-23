@@ -165,6 +165,8 @@ First, we create the project folder which is called **Tutorial** in this example
 
 </details>
 
+<br>
+
 Now the folders **lib** and **util** get subfolders.
 
 <details class="details-reset border rounded-2">
