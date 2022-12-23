@@ -105,18 +105,23 @@ Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Sp
 
 ### 📑 Referenzen für mehr Details
 
-...... ............
+Referenzen:
 
-|                                                                                                                      | Referenzen/Quelle                                                                | Beschreibung                                                                                     |
+|                                                                                                                      | Referenzen                                                                       | Beschreibung                                                                                     |
 | :---:                                                                                                                | :---                                                                             | :---                                                                                             |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                 | Offizielle W3C WebDriver Spezifikation.                                                          |
 | 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                    | Weitere Informationen zur UDF/zum Projekt (big picture, capabilities, troubleshooting und mehr). |
 | 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm) | Funktionen CHM Hilfe Datei welche beim UDF downlaod mit dabei ist.                               |
 | 🧾                                                                                                                   | [Endpunkte](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)      | Liste aller Endpunkte und ihrer Verwendungen.                                                    |
-| ![chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_16x16.png)                    | [Chrome](https://sites.google.com/chromium.org/driver/downloads)                 | ChromeDriver download vom offiziellen Bereich.                                                   |
-| ![edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_16x16.png)                          | [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)    | MSEdgeDriver download vom offiziellen Bereich.                                                   |
-| ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png)                 | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)                | GeckoDriver download aus dem letzten Release.                                                    |
-| ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)                       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest)    | OperaDriver download aus dem letzten Release.                                                    |
+
+Downloads:
+
+|                                                                                                      | Downloads                                                                     | Beschreibung                                   |
+| :---:                                                                                                | :---                                                                          | :---                                           |
+| ![chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_16x16.png)    | [Chrome](https://sites.google.com/chromium.org/driver/downloads)              | ChromeDriver download vom offiziellen Bereich. |
+| ![edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_16x16.png)          | [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) | MSEdgeDriver download vom offiziellen Bereich. |
+| ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png) | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)             | GeckoDriver download aus dem letzten Release.  |
+| ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest) | OperaDriver download aus dem letzten Release.  |
 
 <br>
 
