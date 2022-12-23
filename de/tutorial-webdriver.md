@@ -156,7 +156,14 @@ Downloads:
 
 ### 📑 Grundlegender Aufbau
 
-Maxime temporibus sint autem rerum velit rerum ex. Consequatur quo perferendis consequatur inventore. Laboriosam esse assumenda aut architecto vel accusamus quia voluptas similique. Vero autem qui a. Impedit mollitia iure ut qui.
+Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** heißt. Dieser Ordner erhält die folgenden sieben Unterordner (siehe Screenshot).
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">🖼 Projekt Ordner</summary>
+
+  <img src="./media/images/project-folder.jpg" alt="project-folder" class="d-block rounded-bottom-2 width-fit">
+
+</details>
 
 <br>
 
