@@ -148,9 +148,9 @@ Downloads:
 
 ## ➁ Project structure
 
-### 🔊 ...
+### 🔊 Why structuring
 
-...
+<audio src="./media/audio/02-01-project-structure.mp3" controls="controls"></audio>
 
 <br>
 
@@ -161,6 +161,12 @@ Maxime temporibus sint autem rerum velit rerum ex. Consequatur quo perferendis c
 <br>
 
 ### 📑 Modularization
+
+Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
+
+<br>
+
+### 📑 Optional: Usage of GIT
 
 Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
 
