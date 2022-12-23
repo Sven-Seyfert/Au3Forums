@@ -64,7 +64,7 @@ In diesem Tutorial werde ich u. a. auf die folgenden Schwerpunkte eingehen:
 - WebDriver Optionen und Funktionen.
 - XPath Selektoren aufbauen und nutzen.
 - Anwendungsfälle wie Navigation, Interaktion mit Elementen, die Verwendung des Browser headless Modus und mehr.
-- Webseiten Quellcode exportieren.
+- Abrufen des Seitenquellcodes.
 - Page Object Model für weniger Redundanz, mehr Struktur und Übersicht.
 
 Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
@@ -92,7 +92,7 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 🏷 Grundlegender Aufbau (Architektur): Eine WebDriver-Sitzung, deren Zustand über Anforderungen hinweg durch ein "session id" Token aufrechterhalten wird, wird von Server und Client gemeinsam genutzt. Das Erstellen einer neuen Sitzung beinhaltet das Senden von Parametern in Form von [Capabilities](#-set-driver-capabilities), die dem Server mitteilen, was du unter welchen Bedingungen automatisieren möchten. Der Server bereitet den entsprechenden Browser mit allen Modifikationen vor, wie in den Capabilities angegeben, und die Sitzung läuft dann weiter. Automatisierungsbefehle und -antworten werden hin und her gesendet (gebunden an die session id), bis der Client eine Anforderung zum Löschen der Sitzung sendet, woraufhin der Browser und andere Ressourcen beendet oder bereinigt werden und die session id verworfen wird.
 
-🏷 Was hat dies alles zur Folge bzgl. AutoIt: ...
+🏷 Was bedeutet dies für AutoIt: ...
 
 <br>
 
@@ -300,7 +300,7 @@ Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantiu
 
 <br>
 
-### 📑 Webseiten Quellcode exportiern
+### 📑 Seitenquellcode abrufen
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 

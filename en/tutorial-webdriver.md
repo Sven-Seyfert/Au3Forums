@@ -64,7 +64,7 @@ In this tutorial, I will cover the following key areas, among others:
 - WebDriver options and features.
 - Build and use XPath selectors.
 - Some use cases such as navigation, interaction with elements, usage of the browser headless mode and more.
-- Export pages source code.
+- Getting page source code.
 - Page Object Model for less redundancy, more structure and overview.
 
 I will **not** address the following key areas in this tutorial:
@@ -300,7 +300,7 @@ Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantiu
 
 <br>
 
-### 📑 Export website source code
+### 📑 Get page source code.
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 
