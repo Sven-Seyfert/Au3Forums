@@ -102,19 +102,28 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Spezifikation (ein Wrapper) in AutoIt, die es dir ermöglicht mit jedem Browser zu interagieren, der die W3C WebDriver Spezifikation unterstützt. Au3WebDriver bietet eine vereinfachte Möglichkeit, die verschiedenen API-Endpunkte der Spezifikation aufzurufen, indem spezifische Wrapper-Funktionen verwendet werden, die die Endpunkte darstellen und kapseln. Alles auf einer Codebasis, was bedeutet, dass du deinen bevorzugten Browser konfigurierst, indem du Optionen/Fähigkeiten setzt. Dann kannst du beginnen, mit dem Browser oder mit Seitenelementen zu interagieren.
 
+Du hast vielleicht schon von **Selenium** gehört, dem wohl beliebtesten Framework zur Automatisierung von Browsern, welches die WebDriver API verwendet. Glücklicherweise haben wir mit au3WebDriver auch ein Framework in AutoIt. Wenn du an anderen Sprachen interessiert bist, sind hier einige wenige aufgelistet die auf WebDriver basieren.
+
+- Selenium (für mehrere Sprachen)
+- WebdriverIO (für mehrere Sprachen)
+- Karate (für Java)
+- Nightwatch.js (JavaScript)
+- au3WebDriver (AutoIt)
+
 <br>
 
 ### 📑 Referenzen für mehr Details
 
 Referenzen:
 
-|                                                                                                                      | Referenzen                                                                              | Beschreibung                                                                                                  |
-| :---:                                                                                                                | :---                                                                                    | :---                                                                                                          |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                        | Offizielle W3C WebDriver Spezifikation.                                                                       |
-| 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                           | Weitere Informationen zur UDF/zum Projekt (big picture, capabilities, troubleshooting etc.).                  |
-| 📚                                                                                                                   | [WebDriver Diskussions-Threads](https://www.autoitscript.com/wiki/WebDriver#References) | Sieh dir den Abschnitt "References" im Wiki an, welcher die relevanten Forum Threads zum WebDriver auflistet. |
-| 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm)        | Funktionen CHM Hilfe Datei welche beim UDF downlaod mit dabei ist.                                            |
-| 🧾                                                                                                                   | [Endpunkte](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)             | Liste aller Endpunkte und ihrer Verwendungen.                                                                 |
+|                                                                                                                      | Referenzen                                                                              | Beschreibung                                                                                                   |
+| :---:                                                                                                                | :---                                                                                    | :---                                                                                                           |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                        | Offizielle W3C WebDriver Spezifikation.                                                                        |
+| 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                           | Weitere Informationen zur UDF/zum Projekt (big picture, capabilities, troubleshooting etc.).                   |
+| 📚                                                                                                                   | [WebDriver Diskussions-Threads](https://www.autoitscript.com/wiki/WebDriver#References) | Sieh dir den Abschnitt "References" im Wiki an, welcher die relevanten Forum Threads zum WebDriver auflistet.  |
+| 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm)        | Funktionen CHM Hilfe Datei welche beim UDF downlaod mit dabei ist.                                             |
+| 🧾                                                                                                                   | [Endpunkte](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)             | Liste aller Endpunkte und ihrer Verwendungen.                                                                  |
+| 👁                                                                                                                   | [Demo/Beispiele](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)         | In der wd_demo.au3 findest du diverse Beispiele wie die Funktionen der au3WebDriver UDF genutzt werden können. |
 
 Downloads:
 

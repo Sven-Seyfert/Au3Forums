@@ -98,9 +98,17 @@ I really want to simplify the **W3C WebDriver Specification** down to a understa
 
 <br>
 
-### 📑 What is the au3WebDriver Project
+### 📑 What is the au3WebDriver project
 
 It's basically a client library or a layer above the WebDriver specification (a wrapper) in AutoIt which allows you to interact with any browser that supports the W3C WebDriver specification. Au3WebDriver provides a simplified way to call the different API endpoints of the specification by using specific wrapper functions that represents and capsulate the endpoints. All by one code base which means you configure your preferred browser by setting options/capabilities. Then you can start to interact with the browser or with page elements.
+
+You might heard about **Selenium** which is the most popular framework to automate browsers and which uses the WebDriver API. Fortunately, with au3WebDriver we have a framework in AutoIt too. If you are interested in other languages, here are just a few once which are WebDriver based.
+
+- Selenium (for multiple languages)
+- WebdriverIO (for multiple languages)
+- Karate (for Java)
+- Nightwatch.js (JavaScript)
+- au3WebDriver (AutoIt)
 
 <br>
 
@@ -115,6 +123,7 @@ References:
 | 📚                                                                                                                   | [WebDriver discussion threads](https://www.autoitscript.com/wiki/WebDriver#References) | See the "References" section in the wiki which lists the relevant forum threads about the WebDriver. |
 | 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm)       | Function CHM help file that comes with this UDF download.                                            |
 | 🧾                                                                                                                   | [Endpoints](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)            | List of all endpoints and their usages.                                                              |
+| 👁                                                                                                                   | [Demo/Examples](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)         | In the wd_demo.au3 you will find several examples how to use functions of the au3WebDriver UDF.      |
 
 Downloads:
 
