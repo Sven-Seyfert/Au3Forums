@@ -136,9 +136,9 @@ Downloads:
 
 <br>
 
-### 📑 Kurze Zusammenfassung
+### 🔊 Kurze Zusammenfassung, Kapitel ➀
 
-Quaerat cupiditate nulla nisi quod. Ut debitis est placeat dolor ipsa corrupti ut reprehenderit inventore. Consequuntur earum saepe rerum autem laborum. Neque sed voluptatem nihil est enim. Consectetur et assumenda adipisci quisquam veritatis cumque.
+<audio src="./media/audio/01-02-summary.mp3" controls="controls"></audio>
 
 <br>
 
