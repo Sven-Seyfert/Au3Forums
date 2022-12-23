@@ -86,13 +86,13 @@ Nach dem Tutorial sollte die Einrichtung, die Integration des WebDriver in dein 
 
 ### 📑 Was ist WebDriver
 
-Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level herunterbrechen, ohne weitere Erklärungen oder tiefere Beschreibungen zum Wire-Protokoll und dessen Kommunikation bzw. Transfer-Weg (über Anfragen und Antworten (requests und responses)). Im Abschnitt weiter unten [Referenzen für mehr Details](#-referenzen-für-mehr-details) findest du die offizielle Spezifikation und die akkurate Definition zum WebDriver. Auch die Architektur des Wire-Protokolls ist für dieses praxisnahe Tutorial nicht so wichtig. Einen kleinen Einblick geben ist dennoch im paar Sätze weiter unten.
+Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level herunterbrechen, ohne weitere Erklärungen oder tiefere Beschreibungen zum Wire-Protokoll und dessen Kommunikation bzw. Transfer-Weg (über Anfragen und Antworten (requests und responses)). Im Abschnitt weiter unten [Referenzen für mehr Details](#-referenzen-für-mehr-details) findest du die offizielle Spezifikation und die akkurate Definition zum WebDriver. Auch die Architektur des Wire-Protokolls ist für dieses praxisnahe Tutorial nicht so wichtig. Dennoch, einige Sätze weiter unten geben einen kleinen Einblick.
 
 🏷 In wenigen Sätzen: WebDriver ist ein Client-Server-Protokoll was dir die Voraussetzung zur Automatisierung eines Browsers schafft. Clients senden Anforderungen, der Server interpretiert diese gemäß dem Wire-Protokoll und führt dann das Automatisierungsverhalten aus, welches durch die Implementierungsschritte in der Spezifikation definiert ist. Die WebDriver Spezifikation ermöglicht es, auf Grund definierter Endpunkte (und derer Eingaben und Ausgaben), so genannte Client-Bibliotheken zu implementieren um in verschiedenen Programmiersprachen und Plattform unabhängig, das Verhalten des Browsers zu steuern (den Browser zu automatisieren).
 
-🏷 Grundlegender Aufbau (Architektur): Eine WebDriver-Sitzung, deren Zustand über Anforderungen hinweg durch ein "session id" Token aufrechterhalten wird, wird von Server und Client gemeinsam genutzt. Das Erstellen einer neuen Sitzung beinhaltet das Senden von Parametern in Form von [Capabilities](#-set-driver-capabilities), die dem Server mitteilen, was du unter welchen Bedingungen automatisieren möchten. Der Server bereitet den entsprechenden Browser mit allen Modifikationen vor, wie in den Capabilities angegeben, und die Sitzung läuft dann weiter. Automatisierungsbefehle und -antworten werden hin und her gesendet (gebunden an die session id), bis der Client eine Anforderung zum Löschen der Sitzung sendet, woraufhin der Browser und andere Ressourcen beendet oder bereinigt werden und die session id verworfen wird.
+🏷 Grundlegender Aufbau (Architektur): Eine WebDriver-Sitzung, deren Zustand über Anforderungen hinweg durch ein "session id" Token aufrechterhalten wird, wird von Server und Client gemeinsam genutzt. Das Erstellen einer neuen Sitzung beinhaltet das Senden von Parametern in Form von [Fähigkeiten](#-driver-capabilities-(fähigkeiten)-setzen) (capabilities), die dem Server mitteilen, was du unter welchen Bedingungen automatisieren möchten. Der Server bereitet den entsprechenden Browser mit allen Modifikationen vor, wie in den Fähigkeiten angegeben, und die Sitzung läuft dann weiter. Automatisierungsbefehle und -antworten werden hin und her gesendet (gebunden an die session id), bis der Client eine Anforderung zum Löschen der Sitzung sendet, woraufhin der Browser und andere Ressourcen beendet oder bereinigt werden und die session id verworfen wird.
 
-🏷 Was bedeutet dies für AutoIt: ...
+🏷 Was bedeutet dies für AutoIt: Es ist somit möglich eine solche Client-Bibliothek, man kann es auch als Wrapper für API-Aufrufe (oder im Slang von AutoIt als "UDF") bezeichnen, zu erstellen und damit der Spezifikation/der Endpunkte entlang das Browserverhalten steuern, respektive den Browser automatisieren. Genau dies macht die UDF/das Projekt "au3WebDriver".
 
 <br>
 
@@ -210,7 +210,7 @@ Magni enim incidunt ut non exercitationem. Est est non vero error dolor sint eli
 
 <br>
 
-### 📑 Driver Capabilities setzen
+### 📑 Driver Capabilities (Fähigkeiten) setzen
 
 Quam quod id libero. Corrupti consequuntur tenetur aut vero laudantium doloribus incidunt. Et et sint omnis molestias nihil ut. Et ipsum earum quae labore ipsa aperiam facere harum.
 

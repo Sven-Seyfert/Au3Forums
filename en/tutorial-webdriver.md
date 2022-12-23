@@ -86,13 +86,13 @@ After the tutorial, the setup, the integration of the WebDriver into your own pr
 
 ### 📑 What is WebDriver
 
-I really want to simplify the **W3C WebDriver Specification** down to a understandable level without further explanation or description about the wire protocol and their communication respectively transfer way (by requests and responses). In the section below [References for more details](#-references-for-more-details) you will find the official specification and the accurate definition of WebDriver. Also the architecture of the wire protocol is not that important for this practical tutorial. However, a few sentences below give a little insight.
+I really want to simplify the **W3C WebDriver Specification** down to a understandable level without further explanation or description about the wire protocol and their communication respectively transfer way (by requests and responses). In the section below [References for more details](#-references-for-more-details) you will find the official specification and the accurate definition of WebDriver. Also the architecture of the wire protocol is not that important for this practical tutorial. However, some sentences further below give a little insight.
 
 🏷 In view sentenses: WebDriver is a client-server protocol that allows you to automate web browsers. Clients send requests, the server interprets them according to the wire protocol and then performs the automation behaviors as defined by the implementation steps in the specification. The WebDriver specification allows you, based on defined endpoints (and their inputs and outputs), to implement so-called client libraries in different programming languages and platforms independently, in order to control the behavior of the browser (automate the browser).
 
 🏷 Basic structure (architecture): A WebDriver session which state is maintained across requests by a "session id" token is shared by the server and client. Creating a new session involves sending parameters in the form of [capabilities](#-set-driver-capabilities), which tell the server what you want to automate and under which conditions. The server prepares the appropriate browser with any modifications as specified in the capabilities, and the session is then on going. Automation commands and responses are sent back and forth (bound on the session id), until the client sends a request to delete the session, at which point the browser and other resources are quit or cleaned up and the session id is discarded.
 
-🏷 What does this mean for AutoIt: ...
+🏷 What does this mean for AutoIt: It's possible to create such a client library which can also be called a wrapper for API calls (or in AutoIt slang as "UDF"). This can be used to control browser behavior along the specification/endpoints, or to automate the browser. This is exactly what the UDF/project "au3WebDriver" does.
 
 <br>
 
