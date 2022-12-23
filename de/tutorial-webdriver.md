@@ -148,7 +148,7 @@ Downloads:
 
 ## ➁ Projektstruktur
 
-### 🔊 Warum strukturieren
+### 🔊 Der Charme der Struktur
 
 <audio src="./media/audio/02-01-project-structure.mp3" controls="controls"></audio>
 
