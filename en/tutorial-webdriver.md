@@ -178,6 +178,10 @@ Now the folders **lib** and **util** get subfolders.
 
 <br>
 
+Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
+
+<br>
+
 ### 📑 Modularization
 
 Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.

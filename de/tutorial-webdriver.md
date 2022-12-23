@@ -178,6 +178,10 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 <br>
 
+Auch wenn wir uns am Anfang nur mit den Verzeichnissen **lib**, **src** und **util** beschäftigen werden, hilft diese Aufteilung dabei seinen Code und seine Daten frühzeitig in Kategorien zuzuordnen und somit in Modulen zu denken. Dies wiederum unterstützt dich die Übersicht zu bewahren, wenn das Projekt und die Dateien wachsen.
+
+<br>
+
 ### 📑 Modularisierung
 
 Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
