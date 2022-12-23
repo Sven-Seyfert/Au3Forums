@@ -73,6 +73,7 @@ Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
 - Helfer-Tools wie ChroPath (um die Erstellung von XPath-Selektoren zu vereinfachen).
 - Wie wird eine Verbindung zu einer laufenden Browserinstanz hergestellt.
 - Wie halten ich meine WebDriver-Umgebung auf dem neuesten Stand (auf automatisierte Weise).
+- Fehlerbehebung (Troubleshooting) von häufigen Problemen.
 
 Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in folgenden Tutorials behandelt werden.
 
@@ -86,7 +87,7 @@ Nach dem Tutorial sollte die Einrichtung, die Integration des WebDriver in dein 
 
 ### 📑 Was ist WebDriver
 
-Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level herunterbrechen, ohne weitere Erklärungen oder tiefere Beschreibungen zum Wire-Protokoll und dessen Kommunikation bzw. Transfer-Weg (über Anfragen und Antworten (requests und responses)). Im Abschnitt weiter unten [Referenzen und Quellen für mehr Details](#-referenzen-und-quellen-für-mehr-details) findest du die offizielle Spezifikation und die akkurate Definition zum WebDriver. Auch die Architektur des Wire-Protokolls ist für dieses praxisnahe Tutorial nicht so wichtig. Dennoch, einige Sätze weiter unten geben einen kleinen Einblick.
+Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level herunterbrechen, ohne weitere Erklärungen oder tiefere Beschreibungen zum Wire-Protokoll und dessen Kommunikation bzw. Transfer-Weg (über Anfragen und Antworten (requests und responses)). Im Abschnitt weiter unten [Referenzen für mehr Details](#-referenzen-für-mehr-details) findest du die offizielle Spezifikation und die akkurate Definition zum WebDriver. Auch die Architektur des Wire-Protokolls ist für dieses praxisnahe Tutorial nicht so wichtig. Dennoch, einige Sätze weiter unten geben einen kleinen Einblick.
 
 🏷 In wenigen Sätzen: WebDriver ist ein Client-Server-Protokoll was dir die Voraussetzung zur Automatisierung eines Browsers schafft. Clients senden Anforderungen, der Server interpretiert diese gemäß dem Wire-Protokoll und führt dann das Automatisierungsverhalten aus, welches durch die Implementierungsschritte in der Spezifikation definiert ist. Die WebDriver Spezifikation ermöglicht es, auf Grund definierter Endpunkte (und derer Eingaben und Ausgaben), so genannte Client-Bibliotheken zu implementieren um in verschiedenen Programmiersprachen und Plattform unabhängig, das Verhalten des Browsers zu steuern (den Browser zu automatisieren).
 
@@ -102,9 +103,19 @@ Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Sp
 
 <br>
 
-### 📑 Referenzen und Quellen für mehr Details
+### 📑 Referenzen für mehr Details
 
-Qui et id nihil odit enim. Nobis est quo. Est assumenda dolorem cum impedit quam molestiae.
+...... ............
+
+|                                                                                                                      | Referenzen/Quelle                                                                | Beschreibung                                                                                                        |
+| :---:                                                                                                                | :---                                                                             | :---                                                                                                                |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/W3C_icon.svg/212px-W3C_icon.svg.png" width="20"> | [W3C WebDriver](https://www.w3.org/TR/webdriver)                                 | Offizielle W3C WebDriver Spezifikation.                                                                             |
+| 📚                                                                                                                   | [WebDriver Wiki](https://www.autoitscript.com/wiki/WebDriver)                    | Weitere Informationen über die UDF/das Projekt (wie bspw. the big picture, capabilities, troubleshooting und mehr). |
+| 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm) | Funktionen CHM Hilfe Datei welche mit dem UDF downlaod mit kommt.                                                   |
+| ![chrome](https://raw.githubusercontent.com/alrra/browser-logos/main/src/chrome/chrome_16x16.png)                    | [Chrome](https://sites.google.com/chromium.org/driver/downloads)                 | ChromeDriver download vom offiziellen Bereich.                                                                      |
+| ![edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_16x16.png)                          | [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)    | MSEdgeDriver download vom offiziellen Bereich.                                                                      |
+| ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png)                 | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)                | GeckoDriver download aus dem letzten Release.                                                                       |
+| ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)                       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest)    | OperaDriver download aus dem letzten Release.                                                                       |
 
 <br>
 
