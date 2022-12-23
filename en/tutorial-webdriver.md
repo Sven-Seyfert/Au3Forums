@@ -86,7 +86,7 @@ After the tutorial, the setup, the integration of the WebDriver into your own pr
 
 ### 📑 What is WebDriver
 
-I really want to simplify the **W3C WebDriver Specification** down to a understandable level without further explanation or description about the wire protocol and their communication respectively transfer way (by requests and responses). In the section below [References for more details](#-references-for-more-details) you will find the official specification and the accurate definition of WebDriver. Also the architecture of the wire protocol is not that important for this practical tutorial. However, some sentences further below give a little insight.
+I really want to simplify the **W3C WebDriver Specification** down to a understandable level without further explanation or description about the wire protocol and their communication respectively transfer way (by requests and responses). In the section below [References and sources for more details](#-references-and-sources-for-more-details) you will find the official specification and the accurate definition of WebDriver. Also the architecture of the wire protocol is not that important for this practical tutorial. However, some sentences further below give a little insight.
 
 🏷 In view sentenses: WebDriver is a client-server protocol that allows you to automate web browsers. Clients send requests, the server interprets them according to the wire protocol and then performs the automation behaviors as defined by the implementation steps in the specification. The WebDriver specification allows you, based on defined endpoints (and their inputs and outputs), to implement so-called client libraries in different programming languages and platforms independently, in order to control the behavior of the browser (automate the browser).
 
@@ -102,7 +102,7 @@ Ut quia beatae qui iusto quos voluptas natus perferendis. Doloribus placeat labo
 
 <br>
 
-### 📑 References for more details
+### 📑 References and sources for more details
 
 Qui et id nihil odit enim. Nobis est quo. Est assumenda dolorem cum impedit quam molestiae.
 
