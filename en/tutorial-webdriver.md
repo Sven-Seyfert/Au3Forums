@@ -98,7 +98,7 @@ I really want to simplify the **W3C WebDriver Specification** down to a understa
 
 ### 📑 What is the au3WebDriver Project
 
-Ut quia beatae qui iusto quos voluptas natus perferendis. Doloribus placeat labore deleniti. Impedit animi qui.
+It's basically a client library or a layer above the WebDriver specification (a wrapper) in AutoIt which allows you to interact with any browser that supports the W3C WebDriver specification. Au3WebDriver provides a simplified way to call the different API endpoints of the specification by using specific wrapper functions that represents and capsulate the endpoints. All by one code base which means you configure your preferred browser by setting options/capabilities. Then you can start to interact with the browser or with page elements.
 
 <br>
 

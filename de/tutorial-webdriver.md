@@ -98,7 +98,7 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 ### 📑 Was ist das au3WebDriver Projekt
 
-Ut quia beatae qui iusto quos voluptas natus perferendis. Doloribus placeat labore deleniti. Impedit animi qui.
+Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Spezifikation (ein Wrapper) in AutoIt, die es dir ermöglicht mit jedem Browser zu interagieren, der die W3C WebDriver Spezifikation unterstützt. Au3WebDriver bietet eine vereinfachte Möglichkeit, die verschiedenen API-Endpunkte der Spezifikation aufzurufen, indem spezifische Wrapper-Funktionen verwendet werden, die die Endpunkte darstellen und kapseln. Alles auf einer Codebasis, was bedeutet, dass du deinen bevorzugten Browser konfigurierst, indem du Optionen/Fähigkeiten setzt. Dann kannst du beginnen, mit dem Browser oder mit Seitenelementen zu interagieren.
 
 <br>
 
