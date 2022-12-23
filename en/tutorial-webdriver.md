@@ -123,7 +123,7 @@ References:
 | 📚                                                                                                                   | [WebDriver discussion threads](https://www.autoitscript.com/wiki/WebDriver#References) | See the "References" section in the wiki which lists the relevant forum threads about the WebDriver. |
 | 📖                                                                                                                   | [Webdriver.chm](https://github.com/Danp2/au3WebDriver/blob/master/Webdriver.chm)       | Function CHM help file that comes with this UDF download.                                            |
 | 🧾                                                                                                                   | [Endpoints](https://github.com/jlipps/simple-wd-spec#list-of-all-endpoints)            | List of all endpoints and their usages.                                                              |
-| 👁                                                                                                                   | [Demo/Examples](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)         | In the wd_demo.au3 you will find several examples how to use functions of the au3WebDriver UDF.      |
+| 👁                                                                                                                   | [Demo/examples](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)         | In the wd_demo.au3 you will find several examples how to use functions of the au3WebDriver UDF.      |
 
 Downloads:
 
