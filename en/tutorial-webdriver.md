@@ -159,7 +159,7 @@ Downloads:
 First, we create the project folder which is called **Tutorial** in this example. This folder gets the following seven subfolders.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🖼 Project folders</summary>
+<summary class="px-3 py-2 border-bottom">Project folders</summary>
 
   <img src="./media/images/project-folders.jpg" alt="project-folders" class="d-block rounded-bottom-2 width-fit">
 
@@ -170,7 +170,7 @@ First, we create the project folder which is called **Tutorial** in this example
 Now the folders **lib** and **util** get subfolders.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🖼 Subfolders</summary>
+<summary class="px-3 py-2 border-bottom">Subfolders</summary>
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
