@@ -25,6 +25,17 @@
 
 ## ➀ Einführung
 
+### Legende
+
+| Symbol | Beschreibung                       |
+| :---:  | :---                               |
+| 🔊     | Audio-Kommentar                    |
+| 📑     | Unter-Kapitel                      |
+| ▶      | Inhalt aufklappen                  |
+| 🚀     | Abkürzung (Setup Skript für Faule) |
+
+<br>
+
 ### 🔊 Willkommen
 
 <audio src="./media/audio/01-01-introduction.mp3" controls="controls"></audio>

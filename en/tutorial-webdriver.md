@@ -25,6 +25,17 @@
 
 ## ➀ Introduction
 
+### Legend
+
+| Symbol | Description                           |
+| :---:  | :---                                  |
+| 🔊     | Audio comment                         |
+| 📑     | Sub chapter                           |
+| ▶      | Unfold content                        |
+| 🚀     | Shortcut (Setup script for lazy ones) |
+
+<br>
+
 ### 🔊 Welcome
 
 <audio src="./media/audio/01-01-introduction.mp3" controls="controls"></audio>
