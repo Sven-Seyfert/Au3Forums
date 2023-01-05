@@ -31,8 +31,7 @@
 | :---:  | :---                                  |
 | 🔊     | Audio comment                         |
 | 📑     | Sub chapter                           |
-| ➤      | Unfold content                        |
-| 🚀     | Shortcut (Setup script for lazy ones) |
+| 🎲     | Shortcut (Setup script for lazy ones) |
 
 <br>
 
@@ -184,6 +183,48 @@ Now the folders **lib** and **util** get subfolders.
 <summary class="px-3 py-2 border-bottom">Subfolders</summary>
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
+
+</details>
+
+<br>
+
+🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure.
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
+
+``` php
+_SetupProjectStructure()
+
+Func _SetupProjectStructure($sRootPath = @DesktopDir)
+    Local Const $sProject     = 'Tutorial'
+    Local Const $sProjectPath = _AddTrailingBackslash($sRootPath) & _AddTrailingBackslash($sProject)
+
+    Local Const $aFolderList[] = _
+        [ _
+            'build', _
+            'config', _
+            'data', _
+            'lib', _
+            'lib\au3WebDriver', _
+            'lib\json', _
+            'lib\winHttp', _
+            'media', _
+            'src', _
+            'util', _
+            'util\webDriver' _
+        ]
+
+    For $sFolder In $aFolderList
+        DirCreate($sProjectPath & $sFolder)
+    Next
+EndFunc
+
+Func _AddTrailingBackslash($sPath)
+    Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
+EndFunc
+
+```
 
 </details>
 
