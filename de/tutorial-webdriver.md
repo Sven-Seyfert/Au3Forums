@@ -190,13 +190,12 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst.
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
-
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-<!-- and it's easy to individually load additional languages -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/go.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/autoit.min.js"></script>
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
 
 <pre><code>_SetupProjectStructure()
 
