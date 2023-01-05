@@ -190,9 +190,6 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst.
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
-
 ``` autoit
 _SetupProjectStructure()
 
@@ -224,8 +221,6 @@ Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
 ```
-
-</details>
 
 <br>
 
