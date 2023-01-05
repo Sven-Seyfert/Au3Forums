@@ -193,7 +193,7 @@ Now the folders **lib** and **util** get subfolders.
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
 
-``` php
+<pre><code>
 _SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
@@ -223,8 +223,7 @@ EndFunc
 Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
-
-```
+</code></pre>
 
 </details>
 
