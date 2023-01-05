@@ -71,7 +71,7 @@ In this tutorial, I will cover the following key areas, among others:
 I will **not** address the following key areas in this tutorial:
 
 - What is CDP (Chrome DevTools Protocol) and how to deal with.
-- Helpers tools like ChroPath (to simplify XPath selector creation).
+- Helpers tools like SelectorsHub (to simplify XPath selector creation).
 - How to connect to a running browser instance.
 - How to keep the WebDriver environment up-to-date (the automated way).
 - Troubleshooting of common issues.
