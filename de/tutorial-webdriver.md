@@ -73,7 +73,7 @@ Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
 - Was ist CDP (Chrome DevTools Protocol) und wie wird damit umgegangen?
 - Helfer-Tools wie SelectorsHub (um die Erstellung von XPath-Selektoren zu vereinfachen).
 - Wie wird eine Verbindung zu einer laufenden Browserinstanz hergestellt.
-- Wie halten ich meine WebDriver-Umgebung auf dem neuesten Stand (auf automatisierte Weise).
+- Wie halte ich meine WebDriver-Umgebung auf dem neuesten Stand (auf automatisierte Weise).
 - Fehlerbehebung (Troubleshooting) von häufigen Problemen.
 
 Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in folgenden Tutorials behandelt werden.
