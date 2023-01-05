@@ -193,8 +193,7 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
 
-<pre><code class="language-php">
-_SetupProjectStructure()
+<pre><code class="language-php">_SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
     Local Const $sProject     = 'Tutorial'
