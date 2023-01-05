@@ -190,7 +190,7 @@ Now the folders **lib** and **util** get subfolders.
 
 🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure.
 
-``` js
+``` php
 _SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
