@@ -31,7 +31,7 @@
 | :---:  | :---                                  |
 | 🔊     | Audio comment                         |
 | 📑     | Sub chapter                           |
-| ▶      | Unfold content                        |
+| ➤      | Unfold content                        |
 | 🚀     | Shortcut (Setup script for lazy ones) |
 
 <br>

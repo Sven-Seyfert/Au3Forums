@@ -31,7 +31,7 @@
 | :---:  | :---                               |
 | 🔊     | Audio-Kommentar                    |
 | 📑     | Unter-Kapitel                      |
-| ▶      | Inhalt aufklappen                  |
+| ➤      | Inhalt aufklappen                  |
 | 🚀     | Abkürzung (Setup Skript für Faule) |
 
 <br>
