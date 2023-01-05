@@ -188,6 +188,10 @@ Now the folders **lib** and **util** get subfolders.
 
 <br>
 
+Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
+
+<br>
+
 🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure.
 
 ``` php
@@ -221,10 +225,6 @@ Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
 ```
-
-<br>
-
-Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
 
 <br>
 
