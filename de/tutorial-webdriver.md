@@ -190,7 +190,7 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst.
 
-``` autoit
+``` php
 _SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)

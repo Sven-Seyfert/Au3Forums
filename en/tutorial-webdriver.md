@@ -190,10 +190,7 @@ Now the folders **lib** and **util** get subfolders.
 
 🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure.
 
-<details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
-
-``` autoit
+``` js
 _SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
@@ -224,8 +221,6 @@ Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
 ```
-
-</details>
 
 <br>
 
