@@ -15,9 +15,7 @@ Assume that AutoIt projects are not that wide spreaded or supported in terms of 
 I personally would love to 😀 .
 
 **Disclaimer:**<br>
-As the GitHub profiles (and repositories), I will list here, are public and your profiles either findable by your signature, your "About Me" page or<br>
-by a simple Google or GitHub seach 🔍 , I see no restriction to collect these kind of information and post it here. In case you don't agree with this<br>
-visualisation and you don't want to be listet here, please let me know and I will remove that entry as soon as possible 🤝 .<br>
+As the GitHub profiles (and repositories), I will list here, are public and your profiles either findable by your signature, your "About Me" page or by a simple Google or GitHub seach 🔍 , I see no restriction to collect these kind of information and post it here. In case you don't agree with this visualisation and you don't want to be listet here, please let me know and I will remove that entry as soon as possible 🤝 .<br>
 I really hope that fits your feeling about it.
 
 **Collection (in progress):**
@@ -37,7 +35,8 @@ I really hope that fits your feeling about it.
 | @TheDcoder          | TheDcoder         | [Projects](https://github.com/TheDcoder?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @TheSaint           | Twombs            | [Projects](https://github.com/Twombs?tab=repositories&q=&type=&language=autoit&sort=)            |
 
-I would love to see the list growing and I am very excited about a possibly upcoming behavior and improvement change, regarding AutoIt on GitHub 😊 .<br>
+I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
+and improvement change, regarding AutoIt on GitHub 😊 .<br>
 💡 Please help me to increase the list. Either by your GitHub link (profile) or through a link from a member you know.
 
 Best regards<br>
