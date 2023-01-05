@@ -193,6 +193,11 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+<!-- and it's easy to individually load additional languages -->
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/go.min.js"></script> -->
+
 <pre><code class="language-php">_SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
