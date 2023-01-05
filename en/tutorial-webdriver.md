@@ -196,7 +196,7 @@ Now the folders **lib** and **util** get subfolders.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
 <!-- and it's easy to individually load additional languages -->
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/go.min.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/go.min.js"></script>
 
 <pre><code class="language-autoit">_SetupProjectStructure()
 
