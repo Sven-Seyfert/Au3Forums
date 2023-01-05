@@ -190,14 +190,11 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/languages/autoit.min.js"></script>
-
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">_SetupProjectStructure()</summary>
 
-<pre><code>_SetupProjectStructure()
+``` autoit
+_SetupProjectStructure()
 
 Func _SetupProjectStructure($sRootPath = @DesktopDir)
     Local Const $sProject     = 'Tutorial'
@@ -226,7 +223,7 @@ EndFunc
 Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
-</code></pre>
+```
 
 </details>
 
