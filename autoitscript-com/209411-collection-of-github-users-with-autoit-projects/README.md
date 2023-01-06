@@ -1,5 +1,7 @@
 ## Collection of GitHub users (with AutoIt projects)
 
+### 💡 Please notice: The following text/post was created as a forum [forum thread](https://www.autoitscript.com/forum/topic/209411-collection-of-github-users-with-autoit-projects). So don't be confused, this is more like a reverse link.
+
 Hi folks 👋 ,
 
 I know about several of us do have AutoIt projects on GitHub.<br>
