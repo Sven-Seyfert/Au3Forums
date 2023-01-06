@@ -190,8 +190,6 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 Auch wenn wir uns am Anfang nur mit den Verzeichnissen **lib**, **src** und **util** beschäftigen werden, hilft diese Aufteilung dabei seinen Code und seine Daten frühzeitig in Kategorien zuzuordnen und somit in Modulen zu denken. Dies wiederum unterstützt dich die Übersicht zu bewahren, wenn das Projekt und die Dateien wachsen.
 
-<br>
-
 🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst. Entweder führst du einfach den Code aus und das Projekt mit dem Namen "Tutorial" wird auf deinem Desktop erstellt oder du rufst die Funktion `_SetupProjectStructure()` mit einem beliebigen Pfad auf.
 
 ``` php
@@ -234,7 +232,7 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 <br>
 
-### 📑 Optional: Verwednung von GIT
+### 📑 Optional: Verwendung von GIT
 
 Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
 
