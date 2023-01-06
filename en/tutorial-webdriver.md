@@ -63,6 +63,8 @@ I recommend this tutorial to users with **Level B1** and up. However, the level 
 | C1     | Skilled user               | Can apply his broad AutoIt knowledge in areas like backend, frontend, API |
 | C2     | Expert                     | Can use his broad AutoIt knowledge and pass it on in a well-founded way   |
 
+[· to the subchapter start ·](#-who-is-this-tutorial-for)
+
 <br>
 
 ### 📑 What you can expect
@@ -89,11 +91,15 @@ I will **not** address the following key areas in this tutorial:
 
 In the chapter [Possible preview](#-possible-preview) you will find further topics that may be covered in following tutorials.
 
+[· to the subchapter start ·](#-what-you-can-expect)
+
 <br>
 
 ### 📑 What should you know and be able to do afterwards
 
 After the tutorial, the setup, the integration of the WebDriver into your own project and the use of the au3WebDriver project should work for you. You will know what to look for to implement the first simple use cases. Furthermore you will know where you can find more information and how you can get more possibilities by using the demo ([wd_demo.au3](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)).
+
+[· to the subchapter start ·](#-what-should-you-know-and-be-able-to-do-afterwards)
 
 <br>
 
@@ -106,6 +112,8 @@ I really want to simplify the **W3C WebDriver Specification** down to a understa
 🏷 Basic structure (architecture): A WebDriver session which state is maintained across requests by a "session id" token is shared by the server and client. Creating a new session involves sending parameters in the form of [capabilities](#-set-driver-capabilities), which tell the server what you want to automate and under which conditions. The server prepares the appropriate browser with any modifications as specified in the capabilities, and the session is then on going. Automation commands and responses are sent back and forth (bound on the session id), until the client sends a request to delete the session, at which point the browser and other resources are quit or cleaned up and the session id is discarded.
 
 🏷 What does this mean for AutoIt: It's possible to create such a client library which can also be called a wrapper for API calls (or in AutoIt slang as "UDF"). This can be used to control browser behavior along the specification/endpoints, or to automate the browser. This is exactly what the UDF/project "au3WebDriver" does.
+
+[· to the subchapter start ·](#-what-is-webdriver)
 
 <br>
 
@@ -120,6 +128,8 @@ You might heard about **Selenium** which is the most popular framework to automa
 - Karate (for Java)
 - Nightwatch.js (JavaScript)
 - au3WebDriver (AutoIt)
+
+[· to the subchapter start ·](#-what-is-the-au3webdriver-project)
 
 <br>
 
@@ -145,13 +155,15 @@ Downloads:
 | ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png) | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)             | GeckoDriver download from latest release. |
 | ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest) | OperaDriver download from latest release. |
 
+[· to the subchapter start ·](#-references-for-more-details)
+
 <br>
 
 ### 🔊 Short summary, chapter ➀
 
 <audio src="./media/audio/01-02-summary.mp3" controls="controls"></audio>
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-introduction)
 
@@ -220,6 +232,8 @@ Func _AddTrailingBackslash($sPath)
     Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
 EndFunc
 ```
+
+[· to the subchapter start ·](#-basic-structure)
 
 <br>
 
@@ -303,11 +317,16 @@ Opt('MustDeclareVars', 1)
 
 
 ```
+
+[· to the subchapter start ·](#-modularization)
+
 <br>
 
 ### 📑 Optional: Usage of GIT
 
 Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
+
+[· to the subchapter start ·](#-optional-usage-of-git)
 
 <br>
 
@@ -315,7 +334,7 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-project-structure)
 
@@ -333,11 +352,15 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 Accusamus laboriosam earum voluptate molestiae et reprehenderit. Qui doloremque labore laudantium magnam voluptas porro quam cumque dolores. Quis aut nobis consectetur velit quod nisi sed expedita.
 
+[· to the subchapter start ·](#-the-project-repository)
+
 <br>
 
 ### 📑 Functionality
 
 Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis eos dolorum tempora. Similique rerum commodi commodi nulla eos non unde. Eius rerum ipsam repellat earum non sint qui ea qui. Nemo architecto tenetur necessitatibus.
+
+[· to the subchapter start ·](#-functionality)
 
 <br>
 
@@ -345,7 +368,7 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-au3webdriver)
 
@@ -363,11 +386,15 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 
 Excepturi deserunt cumque in. Nisi minus et totam ut cumque eos omnis. Natus eius aliquam aliquid. Odit enim accusamus beatae sunt ut velit. Eligendi ut maxime. Deserunt voluptates sint hic voluptatem velit.
 
+[· to the subchapter start ·](#-json-udf)
+
 <br>
 
 ### 📑 ChromeDriver and GeckoDriver
 
 Veniam qui voluptas dolor non consectetur qui blanditiis nam. Veniam sed inventore fugit earum. Consequatur voluptatibus et molestias doloribus.
+
+[· to the subchapter start ·](#-chromedriver-and-geckodriver)
 
 <br>
 
@@ -375,13 +402,15 @@ Veniam qui voluptas dolor non consectetur qui blanditiis nam. Veniam sed invento
 
 Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur aut deserunt similique quas iure. Reiciendis qui nostrum sint est eos assumenda occaecati. Illum nihil mollitia atque odio.
 
+[· to the subchapter start ·](#-winhttp-udf)
+
 <br>
 
 ### 🔊 Short summary, chapter ➃
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-dependencies)
 
@@ -399,11 +428,15 @@ Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur 
 
 Quisquam labore molestias natus dolores porro tenetur. Et molestiae corrupti nam at optio et tempora dolores illum. Et saepe ut. Illo voluptatum voluptatem expedita rerum natus cupiditate. Illo doloremque architecto quia nihil. Eos odio culpa quae et laboriosam ea sint sequi illo.
 
+[· to the subchapter start ·](#-set-log-level)
+
 <br>
 
 ### 📑 Set driver options
 
 Magni enim incidunt ut non exercitationem. Est est non vero error dolor sint eligendi magni voluptatem. Est iste consequatur nobis quisquam pariatur reiciendis perspiciatis quis officia. Qui recusandae consequatur quod. Neque labore doloribus quis et occaecati voluptas laborum. Eius consequuntur veniam.
+
+[· to the subchapter start ·](#-set-driver-options)
 
 <br>
 
@@ -411,11 +444,15 @@ Magni enim incidunt ut non exercitationem. Est est non vero error dolor sint eli
 
 Quam quod id libero. Corrupti consequuntur tenetur aut vero laudantium doloribus incidunt. Et et sint omnis molestias nihil ut. Et ipsum earum quae labore ipsa aperiam facere harum.
 
+[· to the subchapter start ·](#-set-driver-capabilities)
+
 <br>
 
 ### 📑 Start and teardown
 
 Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe molestias. Et soluta quidem tenetur qui eum in accusantium. Adipisci qui sapiente.
+
+[· to the subchapter start ·](#-start-and-teardown)
 
 <br>
 
@@ -423,7 +460,7 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-setup)
 
@@ -441,11 +478,15 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 Qui odio recusandae corrupti aut itaque nihil non commodi odit. Nesciunt dolores distinctio. Provident repudiandae eos maxime dignissimos distinctio explicabo eos optio ullam. Ad nihil voluptas. Distinctio autem error ad animi qui. Architecto aperiam culpa voluptatem.
 
+[· to the subchapter start ·](#-locator-strategies)
+
 <br>
 
 ### 📑 XPath
 
 Praesentium aut repudiandae deleniti quibusdam qui dicta. Et laboriosam animi quisquam ea officia est. Perferendis optio qui omnis quos ad quas similique velit ipsam. Est non expedita. Nisi eligendi nobis quaerat reiciendis.
+
+[· to the subchapter start ·](#-xpath)
 
 <br>
 
@@ -453,13 +494,15 @@ Praesentium aut repudiandae deleniti quibusdam qui dicta. Et laboriosam animi qu
 
 Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntur eum molestias facilis magnam est quis ipsa fugiat.
 
+[· to the subchapter start ·](#-browser-devtools)
+
 <br>
 
 ### 🔊 Short summary, chapter ➅
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-selectors)
 
@@ -477,11 +520,15 @@ Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntu
 
 Soluta quaerat in inventore nam facilis nostrum. Sunt a voluptates esse neque. Sequi cum magnam beatae perspiciatis quia sunt. Aspernatur dolorem enim molestiae in veniam ullam accusamus.
 
+[· to the subchapter start ·](#-navigation)
+
 <br>
 
 ### 📑 Find and click elements
 
 Ipsa ut fuga culpa illo doloribus est eaque quo et. Porro dicta similique aliquid sunt laudantium qui quis quaerat. Quo possimus iure aut minus veniam eos. Sit et aut nesciunt numquam.
+
+[· to the subchapter start ·](#-find-and-click-elements)
 
 <br>
 
@@ -489,11 +536,15 @@ Ipsa ut fuga culpa illo doloribus est eaque quo et. Porro dicta similique aliqui
 
 Qui et ab impedit qui ipsam omnis numquam. Officiis doloribus id. Aliquid voluptatem facere consequuntur omnis corrupti ducimus atque. Ea qui eaque. Voluptates aut quidem commodi quibusdam sapiente quasi. Voluptatem tempora sed temporibus nam cumque totam ratione enim.
 
+[· to the subchapter start ·](#-fill-input-fields)
+
 <br>
 
 ### 📑 Wait for elements
 
 Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
+
+[· to the subchapter start ·](#-wait-for-elements)
 
 <br>
 
@@ -501,11 +552,15 @@ Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ip
 
 Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
 
+[· to the subchapter start ·](#-find-multiple-elements)
+
 <br>
 
 ### 📑 Deal with multiple browser tabs
 
 Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+[· to the subchapter start ·](#-deal-with-multiple-browser-tabs)
 
 <br>
 
@@ -513,11 +568,15 @@ Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga
 
 Maiores eveniet delectus eum harum et laudantium. Nihil rerum id natus laudantium dignissimos hic animi quae. Est esse consequatur officiis molestiae nulla. Aliquam at aut necessitatibus tenetur.
 
+[· to the subchapter start ·](#-run-browser-in-headless-mode)
+
 <br>
 
-### 📑 Get page source code.
+### 📑 Get page source code
 
 Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
+
+[· to the subchapter start ·](#-get-page-source-code)
 
 <br>
 
@@ -525,13 +584,15 @@ Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 
 Porro reiciendis architecto quisquam sit.
 
+[· to the subchapter start ·](#-usage-of-pom-page-object-model)
+
 <br>
 
 ### 🔊 Short summary, chapter ➆
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-some-use-cases)
 
@@ -545,15 +606,19 @@ Porro reiciendis architecto quisquam sit.
 
 <br>
 
-### 📑 A
+### 📑 AAA
 
 Incidunt at occaecati quod accusantium. Quia quos culpa atque explicabo in autem in. Harum earum nobis sunt eos incidunt non. Maxime voluptas earum deleniti illo adipisci. Autem ipsum consequuntur voluptatem et debitis ratione id incidunt.
 
+[· to the subchapter start ·](#-aaa)
+
 <br>
 
-### 📑 B
+### 📑 BBB
 
 Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempora ut. Natus qui iusto dignissimos ex recusandae distinctio aliquid ut illum. Nulla necessitatibus enim corporis et doloribus rerum.
+
+[· to the subchapter start ·](#-bbb)
 
 <br>
 
@@ -561,7 +626,7 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 
 ...
 
-<br>
+<p></p>
 
 [· to the chapter start ·](#-possible-preview)
 
