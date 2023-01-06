@@ -192,7 +192,7 @@ Auch wenn wir uns am Anfang nur mit den Verzeichnissen **lib**, **src** und **ut
 
 <br>
 
-🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst. Entweder führst du einfach den Code aus und das Projekt mit dem Namen "Tutorial" wird auf deinem Desktop erstellt oder du rufst die Funktion `_SetupProjectStructure()` mit einem beliebigen Pfad auf (bspw. `_SetupProjectStructure(@UserProfileDir)`).
+🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst. Entweder führst du einfach den Code aus und das Projekt mit dem Namen "Tutorial" wird auf deinem Desktop erstellt oder du rufst die Funktion `_SetupProjectStructure()` mit einem beliebigen Pfad auf.
 
 ``` php
 _SetupProjectStructure()
