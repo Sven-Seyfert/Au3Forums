@@ -28,6 +28,7 @@ I really hope that fits your feeling about it.
 | @Danp2              | Danp2             | [Projects](https://github.com/Danp2?tab=repositories&q=&type=&language=autoit&sort=)             |
 | @genius257          | genius257         | [Projects](https://github.com/genius257?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @J2TeaM (@junookyo) | J2TEAM            | [Projects](https://github.com/J2TEAM?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @James              | jbrooksuk         | [Projects](https://github.com/jbrooksuk?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @jvanegmond         | jvanegmond        | [Projects](https://github.com/jvanegmond?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @LoganCH            | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
 | @Mat                | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
