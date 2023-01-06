@@ -63,7 +63,7 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 | C1     | Fachkundiger Anwender                  | Kann sein AutoIt Breitenwissen in Bereiche wie backend, frontend, API einsetzen |
 | C2     | Experte                                | Kann sein AutoIt Breitenwissen einsetzen und fundiert weiter geben (vermitteln) |
 
-[· zum Anfang Unterkapitel ·](#-an-wen-richtet-sich-dieses-tutorial)
+[· zum Unterkapitelanfang ·](#-an-wen-richtet-sich-dieses-tutorial)
 
 <br>
 
@@ -91,7 +91,7 @@ Auf die folgenden Schwerpunkte werde ich in diesem Tutorial **nicht** eingeben:
 
 Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in folgenden Tutorials behandelt werden.
 
-[· zum Anfang Unterkapitel ·](#-was-erwartet-dich)
+[· zum Unterkapitelanfang ·](#-was-erwartet-dich)
 
 <br>
 
@@ -99,7 +99,7 @@ Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in 
 
 Nach dem Tutorial sollte die Einrichtung, die Integration des WebDriver in dein eigenes Projekt und die Nutzung des au3WebDriver Projekt bei dir funktionieren. Du wirst wissen auf was du achten musst, um die ersten einfachen Anwendungsfälle umzusetzen. Des Weiteren wirst du wissen wo du weitere Informationen finden kannst und wie du dich an Hand der Demo ([wd_demo.au3](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)) mit weiteren Möglichkeiten beschäftigen kannst.
 
-[· zum Anfang Unterkapitel ·](#-was-solltest-du-danach-wissen-und-können)
+[· zum Unterkapitelanfang ·](#-was-solltest-du-danach-wissen-und-können)
 
 <br>
 
@@ -113,7 +113,7 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 🏷 Was bedeutet dies für AutoIt: Es ist somit möglich eine solche Client-Bibliothek, man kann es auch als Wrapper für API-Aufrufe (oder im Slang von AutoIt als "UDF") bezeichnen, zu erstellen und damit der Spezifikation/der Endpunkte entlang das Browserverhalten steuern, respektive den Browser automatisieren. Genau dies macht die UDF/das Projekt "au3WebDriver".
 
-[· zum Anfang Unterkapitel ·](#-was-ist-webdriver)
+[· zum Unterkapitelanfang ·](#-was-ist-webdriver)
 
 <br>
 
@@ -129,7 +129,7 @@ Du hast vielleicht schon von **Selenium** gehört, dem wohl beliebtesten Framewo
 - Nightwatch.js (JavaScript)
 - au3WebDriver (AutoIt)
 
-[· zum Anfang Unterkapitel ·](#-was-ist-das-au3webdriver-projekt)
+[· zum Unterkapitelanfang ·](#-was-ist-das-au3webdriver-projekt)
 
 <br>
 
@@ -155,7 +155,7 @@ Downloads:
 | ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png) | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)             | GeckoDriver download aus dem letzten Release.  |
 | ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest) | OperaDriver download aus dem letzten Release.  |
 
-[· zum Anfang Unterkapitel ·](#-referenzen-für-mehr-details)
+[· zum Unterkapitelanfang ·](#-referenzen-für-mehr-details)
 
 <br>
 
