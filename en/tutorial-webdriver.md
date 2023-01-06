@@ -192,7 +192,7 @@ Even though we will only deal with the directories **lib**, **src** and **util**
 
 <br>
 
-🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure. Either you just run the code and the project named "Tutorial" will be created on your desktop or you call the function `_SetupProjectStructure()` with an arbitrary path.
+🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure. Either you just run the code and the project named "Tutorial" will be created on your desktop or you call the function `_SetupProjectStructure()` with an arbitrary path (for example `_SetupProjectStructure(@UserProfileDir)`).
 
 ``` php
 _SetupProjectStructure()
