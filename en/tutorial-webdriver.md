@@ -229,7 +229,24 @@ EndFunc
 
 ### 📑 Modularization
 
-Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
+What is meant by modularization here is nothing more than a division of code into specific files, instead of having everything in one file. The division takes place according to the tasks respectively responsibility of the code. This is for clarity, comprehensibility, combinability and other properties that are pursued in the software architecture or design.
+
+We create the following five *.au3 files in the `src` folder.
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">Initial files</summary>
+
+  <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
+
+</details>
+
+<br>
+
+Each of these five files has its own task respectively responsibility and initially serves as the basic structure for the following code.
+
+<br>
+
+🎲 ...
 
 <br>
 

@@ -229,7 +229,24 @@ EndFunc
 
 ### 📑 Modularisierung
 
-Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta perferendis facere debitis velit reiciendis eum.
+Was hier mit Modularisierung gemeint ist, ist erstmal nichts anderes als eine Aufteilung von Code in spezifische Dateien, anstatt alles in einer Datei zu haben. Die Aufteilung geschieht nach Aufgabenfeld bzw. Verantwortung des Codes. Dies dient der Übersichtlichkeit, der Verständlichkeit, der Kombinierbarkeit und anderen Eigenschaften die man in der Software Architektur bzw. dem Design verfolgt.
+
+Wir erstellen im `src` Ordner die folgenden fünf *.au3 Dateien.
+
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">Initiale Dateien</summary>
+
+  <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
+
+</details>
+
+<br>
+
+Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den folgenden Code.
+
+<br>
+
+🎲 ...
 
 <br>
 
