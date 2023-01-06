@@ -565,6 +565,4 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 
 [· to the chapter start ·](#-possible-preview)
 
-<br>
-
 [· to the top ·](#)

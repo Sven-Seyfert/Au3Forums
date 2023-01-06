@@ -65,6 +65,10 @@ An sich empfehle ich Anwendern mit **Level B1** aufwärts, dieses Tutorial. Die 
 
 <br>
 
+[· zum Unterkapitelanfang ·](#-an-wen-richtet-sich-dieses-tutorial)
+
+<br>
+
 ### 📑 Was erwartet dich
 
 In diesem Tutorial werde ich u. a. auf die folgenden Schwerpunkte eingehen:
@@ -91,9 +95,17 @@ Im Kapitel [Ein Ausblick](#-ein-ausblick) findest du weitere Themen die ggf. in 
 
 <br>
 
+[· zum Unterkapitelanfang ·](#-was-erwartet-dich)
+
+<br>
+
 ### 📑 Was solltest du danach wissen und können
 
 Nach dem Tutorial sollte die Einrichtung, die Integration des WebDriver in dein eigenes Projekt und die Nutzung des au3WebDriver Projekt bei dir funktionieren. Du wirst wissen auf was du achten musst, um die ersten einfachen Anwendungsfälle umzusetzen. Des Weiteren wirst du wissen wo du weitere Informationen finden kannst und wie du dich an Hand der Demo ([wd_demo.au3](https://github.com/Danp2/au3WebDriver/blob/master/wd_demo.au3)) mit weiteren Möglichkeiten beschäftigen kannst.
+
+<br>
+
+[· zum Unterkapitelanfang ·](#-was-solltest-du-danach-wissen-und-können)
 
 <br>
 
@@ -109,6 +121,10 @@ Ich möchte die **W3C WebDriver Spezifikation** auf ein verständliches Level he
 
 <br>
 
+[· zum Unterkapitelanfang ·](#-was-ist-webdriver)
+
+<br>
+
 ### 📑 Was ist das au3WebDriver Projekt
 
 Es ist im Grunde eine Client-Bibliothek oder eine Schicht über der WebDriver Spezifikation (ein Wrapper) in AutoIt, die es dir ermöglicht mit jedem Browser zu interagieren, der die W3C WebDriver Spezifikation unterstützt. Au3WebDriver bietet eine vereinfachte Möglichkeit, die verschiedenen API-Endpunkte der Spezifikation aufzurufen, indem spezifische Wrapper-Funktionen verwendet werden, die die Endpunkte darstellen und kapseln. Alles auf einer Codebasis, was bedeutet, dass du deinen bevorzugten Browser konfigurierst, indem du Optionen/Fähigkeiten setzt. Dann kannst du beginnen, mit dem Browser oder mit Seitenelementen zu interagieren.
@@ -120,6 +136,10 @@ Du hast vielleicht schon von **Selenium** gehört, dem wohl beliebtesten Framewo
 - Karate (für Java)
 - Nightwatch.js (JavaScript)
 - au3WebDriver (AutoIt)
+
+<br>
+
+[· zum Unterkapitelanfang ·](#-was-ist-das-au3webdriver-projekt)
 
 <br>
 
@@ -144,6 +164,10 @@ Downloads:
 | ![edge](https://raw.githubusercontent.com/alrra/browser-logos/main/src/edge/edge_16x16.png)          | [Edge](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) | MSEdgeDriver download vom offiziellen Bereich. |
 | ![firefox](https://raw.githubusercontent.com/alrra/browser-logos/main/src/firefox/firefox_16x16.png) | [Firefox](https://github.com/mozilla/geckodriver/releases/latest)             | GeckoDriver download aus dem letzten Release.  |
 | ![opera](https://raw.githubusercontent.com/alrra/browser-logos/main/src/opera/opera_16x16.png)       | [Opera](https://github.com/operasoftware/operachromiumdriver/releases/latest) | OperaDriver download aus dem letzten Release.  |
+
+<br>
+
+[· zum Unterkapitelanfang ·](#-referenzen-für-mehr-details)
 
 <br>
 
@@ -564,7 +588,5 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 <br>
 
 [· zum Kapitelanfang ·](#-ein-ausblick)
-
-<br>
 
 [· ganz nach oben ·](#)
