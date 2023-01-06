@@ -236,7 +236,7 @@ Wir erstellen im `src` Ordner die folgenden fünf `*.au3` Dateien.
 
 </details><p></p>
 
-Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den folgenden Code.
+Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den gleich folgenden Code.
 
 🎲 Abkürzung: Davon ausgehend das du die zuvor vorgeschlagene Ordnerstruktur verwendest, kannst du die Dateien im Quellordner einfach mit diesem Code-Snippet anlegen.
 
@@ -276,9 +276,9 @@ EndFunc
 
 <br>
 
-👨‍💻 Wir starten mit unserer `Main.au3` file which is the entry point of the (browser automation) program. Let's create small sections which will be filled with content and context step by step.
+👨‍💻 Wir starten mit unserer `Main.au3` Datei welche der Einstiegspunkt des Programms (Browser Automation) ist. Lass uns kleine Abschnitte erstellen, die nach und nach mit Inhalt und Kontext gefüllt werden.
 
-``` autoit
+``` php
 #AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
 #AutoIt3Wrapper_UseUpx=n
 
