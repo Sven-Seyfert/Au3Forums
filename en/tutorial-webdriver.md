@@ -187,7 +187,7 @@ Now the folders **lib** and **util** get subfolders.
 
 Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
 
-🎲 To make this a little easier for you, here is a code snippet so you can quickly create the structure. Either you just run the code and the project named "Tutorial" will be created on your desktop or you call the function `_SetupProjectStructure()` with an arbitrary path.
+🎲 Shortcut: To make this a little easier for you, here is a code snippet so you can quickly create the structure. Either you just run the code and the project named "Tutorial" will be created on your desktop or you call the function `_SetupProjectStructure()` with an arbitrary path.
 
 ``` php
 _SetupProjectStructure()
@@ -238,7 +238,7 @@ We create the following five `*.au3` files in the `src` folder.
 
 Each of these five files has its own task respectively responsibility and initially serves as the basic structure for the following code.
 
-🎲 .. code ..
+🎲 Shortcut ..
 
 ``` php
     s totam est ipsam. Quia vitae dicta. Beatae maio

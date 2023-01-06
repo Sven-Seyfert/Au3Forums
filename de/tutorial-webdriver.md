@@ -187,7 +187,7 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 Auch wenn wir uns am Anfang nur mit den Verzeichnissen **lib**, **src** und **util** beschäftigen werden, hilft diese Aufteilung dabei seinen Code und seine Daten frühzeitig in Kategorien zuzuordnen und somit in Modulen zu denken. Dies wiederum unterstützt dich die Übersicht zu bewahren, wenn das Projekt und die Dateien wachsen.
 
-🎲 Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst. Entweder führst du einfach den Code aus und das Projekt mit dem Namen "Tutorial" wird auf deinem Desktop erstellt oder du rufst die Funktion `_SetupProjectStructure()` mit einem beliebigen Pfad auf.
+🎲 Abkürzung: Damit dies etwas einfacher für dich ist, hier ein code snippet, damit du die Struktur schnell anlegen kannst. Entweder führst du einfach den Code aus und das Projekt mit dem Namen "Tutorial" wird auf deinem Desktop erstellt oder du rufst die Funktion `_SetupProjectStructure()` mit einem beliebigen Pfad auf.
 
 ``` php
 _SetupProjectStructure()
@@ -238,7 +238,7 @@ Wir erstellen im `src` Ordner die folgenden fünf `*.au3` Dateien.
 
 Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den folgenden Code.
 
-🎲 .. code ..
+🎲 Abkürzung: ..
 
 ``` php
     s totam est ipsam. Quia vitae dicta. Beatae maio
