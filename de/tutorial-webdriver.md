@@ -27,11 +27,12 @@
 
 ### Legende
 
-| Symbol | Beschreibung                       |
-| :---:  | :---                               |
-| 🔊     | Audio-Kommentar                    |
-| 📑     | Unter-Kapitel                      |
-| 🎲     | Abkürzung (Setup Skript für Faule) |
+| Symbol | Beschreibung                        |
+| :---:  | :---                                |
+| 🔊     | Audiokommentar                      |
+| 📑     | Unterkapitel                        |
+| 🎲     | Abkürzung: Setup Skript (für Faule) |
+| 👨‍💻     | Code snippets                       |
 
 <br>
 

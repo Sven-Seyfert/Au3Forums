@@ -27,11 +27,12 @@
 
 ### Legend
 
-| Symbol | Description                           |
-| :---:  | :---                                  |
-| 🔊     | Audio comment                         |
-| 📑     | Sub chapter                           |
-| 🎲     | Shortcut (Setup script for lazy ones) |
+| Symbol | Description                            |
+| :---:  | :---                                   |
+| 🔊     | Audio commentary                       |
+| 📑     | Subchapter                             |
+| 🎲     | Shortcut: Setup script (for lazy ones) |
+| 👨‍💻     | Code snippets                          |
 
 <br>
 
