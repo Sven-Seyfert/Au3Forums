@@ -163,6 +163,8 @@ Downloads:
 
 <audio src="./media/audio/01-02-summary.mp3" controls="controls"></audio>
 
+<p></p>
+
 [· zum Kapitelanfang ·](#-einführung)
 
 <br>
@@ -325,6 +327,8 @@ Optio quam officiis totam est ipsam. Quia vitae dicta. Beatae maiores soluta per
 
 ...
 
+<p></p>
+
 [· zum Kapitelanfang ·](#-projektstruktur)
 
 <br>
@@ -352,6 +356,8 @@ Voluptas corporis aut. Consequatur quia alias consectetur recusandae reiciendis 
 ### 🔊 Kurze Zusammenfassung, Kapitel ➂
 
 ...
+
+<p></p>
 
 [· zum Kapitelanfang ·](#-au3webdriver)
 
@@ -386,6 +392,8 @@ Et et error non. Quaerat aut voluptas officia officia quis. Aliquam aut tenetur 
 ### 🔊 Kurze Zusammenfassung, Kapitel ➃
 
 ...
+
+<p></p>
 
 [· zum Kapitelanfang ·](#-abhängigkeiten)
 
@@ -427,6 +435,8 @@ Ratione consequatur magnam distinctio sapiente vel tenetur. Aperiam sed saepe mo
 
 ...
 
+<p></p>
+
 [· zum Kapitelanfang ·](#-setup)
 
 <br>
@@ -460,6 +470,8 @@ Qui repellendus reprehenderit. Molestias qui sunt dolor consectetur. Consequuntu
 ### 🔊 Kurze Zusammenfassung, Kapitel ➅
 
 ...
+
+<p></p>
 
 [· zum Kapitelanfang ·](#-selektoren)
 
@@ -531,6 +543,8 @@ Porro reiciendis architecto quisquam sit.
 
 ...
 
+<p></p>
+
 [· zum Kapitelanfang ·](#-anwendungsbeispiele)
 
 <br>
@@ -558,6 +572,8 @@ Dolorem repellat est soluta autem enim. Natus nemo et sint non dignissimos tempo
 ### 🔊 Kurze Zusammenfassung, Kapitel ➇
 
 ...
+
+<p></p>
 
 [· zum Kapitelanfang ·](#-ein-ausblick)
 
