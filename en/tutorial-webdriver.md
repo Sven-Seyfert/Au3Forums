@@ -176,8 +176,6 @@ First, we create the project folder which is called **Tutorial** in this example
 
 </details>
 
-<br>
-
 Now the folders **lib** and **util** get subfolders.
 
 <details class="details-reset border rounded-2">
@@ -186,8 +184,6 @@ Now the folders **lib** and **util** get subfolders.
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
 </details>
-
-<br>
 
 Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
 
@@ -231,7 +227,7 @@ EndFunc
 
 What is meant by modularization here is nothing more than a division of code into specific files, instead of having everything in one file. The division takes place according to the tasks respectively responsibility of the code. This is for clarity, comprehensibility, combinability and other properties that are pursued in the software architecture or design.
 
-We create the following five *.au3 files in the `src` folder.
+We create the following five `*.au3` files in the `src` folder.
 
 <details class="details-reset border rounded-2">
 <summary class="px-3 py-2 border-bottom">Initial files</summary>
@@ -240,13 +236,13 @@ We create the following five *.au3 files in the `src` folder.
 
 </details>
 
-<br>
-
 Each of these five files has its own task respectively responsibility and initially serves as the basic structure for the following code.
 
-<br>
+🎲 .. code ..
 
-🎲 ...
+``` php
+    s totam est ipsam. Quia vitae dicta. Beatae maio
+```
 
 <br>
 
