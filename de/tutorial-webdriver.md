@@ -174,7 +174,7 @@ Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** hei
 
   <img src="./media/images/project-folders.jpg" alt="project-folders" class="d-block rounded-bottom-2 width-fit">
 
-</details><br>
+</details><p></p>
 
 Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
@@ -183,7 +183,7 @@ Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
-</details><br>
+</details><p></p>
 
 Auch wenn wir uns am Anfang nur mit den Verzeichnissen **lib**, **src** und **util** beschäftigen werden, hilft diese Aufteilung dabei seinen Code und seine Daten frühzeitig in Kategorien zuzuordnen und somit in Modulen zu denken. Dies wiederum unterstützt dich die Übersicht zu bewahren, wenn das Projekt und die Dateien wachsen.
 
@@ -234,7 +234,7 @@ Wir erstellen im `src` Ordner die folgenden fünf `*.au3` Dateien.
 
   <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
 
-</details><br>
+</details><p></p>
 
 Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den folgenden Code.
 
