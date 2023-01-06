@@ -238,12 +238,71 @@ Wir erstellen im `src` Ordner die folgenden fünf `*.au3` Dateien.
 
 Jede dieser fünf Dateien hat eine eigene Aufgabe bzw. Verantwortung und dient uns zunächst als Grundstruktur für den folgenden Code.
 
-🎲 Abkürzung: ..
+🎲 Abkürzung: Davon ausgehend das du die zuvor vorgeschlagene Ordnerstruktur verwendest, kannst du die Dateien im Quellordner einfach mit diesem Code-Snippet anlegen.
 
 ``` php
-    s totam est ipsam. Quia vitae dicta. Beatae maio
+_CreateInitialFilesInSourceFolder()
+
+Func _CreateInitialFilesInSourceFolder($sRootPath = @DesktopDir)
+    Local Const $sProject     = 'Tutorial'
+    Local Const $sProjectPath = _AddTrailingBackslash($sRootPath) & _AddTrailingBackslash($sProject)
+
+    Local Const $aFileList[] = _
+        [ _
+            'src\ActionHandler.au3', _
+            'src\Helper.au3', _
+            'src\Initializer.au3', _
+            'src\Main.au3', _
+            'src\WebDriver.au3' _
+        ]
+
+    For $sFile In $aFileList
+        _WriteFile($sProjectPath & $sFile, '')
+    Next
+EndFunc
+
+Func _AddTrailingBackslash($sPath)
+    Return (StringRight($sPath, 1) == '\') ? $sPath : $sPath & '\'
+EndFunc
+
+Func _WriteFile($sFile, $sText)
+    Local Const $iUtf8WithoutBomAndOverwriteCreationMode = 256 + 2 + 8
+
+    Local $hFile = FileOpen($sFile, $iUtf8WithoutBomAndOverwriteCreationMode)
+    FileWrite($hFile, $sText)
+    FileClose($hFile)
+EndFunc
 ```
 
+<br>
+
+👨‍💻 Wir starten mit unserer `Main.au3` file which is the entry point of the (browser automation) program. Let's create small sections which will be filled with content and context step by step.
+
+``` autoit
+#AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
+#AutoIt3Wrapper_UseUpx=n
+
+
+
+; autoit options ---------------------------------------------------------------
+Opt('MustDeclareVars', 1)
+
+
+
+; includes ---------------------------------------------------------------------
+#include-once
+
+
+
+; modules ----------------------------------------------------------------------
+
+
+
+; processing -------------------------------------------------------------------
+
+
+
+```
 <br>
 
 ### 📑 Optional: Verwendung von GIT
