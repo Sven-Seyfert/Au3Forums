@@ -174,8 +174,7 @@ First, we create the project folder which is called **Tutorial** in this example
 
   <img src="./media/images/project-folders.jpg" alt="project-folders" class="d-block rounded-bottom-2 width-fit">
 
-</details>
-<br>
+</details><p></p>
 
 Now the folders **lib** and **util** get subfolders.
 
@@ -184,8 +183,7 @@ Now the folders **lib** and **util** get subfolders.
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
-</details>
-<br>
+</details><p></p>
 
 Even though we will only deal with the directories **lib**, **src** and **util** at the beginning, this division helps to assign your code and data into categories early on and thus to think in terms of modules. This helps you keep track of the project and files as they grow more and more.
 
@@ -236,8 +234,7 @@ We create the following five `*.au3` files in the `src` folder.
 
   <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
 
-</details>
-<br>
+</details><p></p>
 
 Each of these five files has its own task respectively responsibility and initially serves as the basic structure for the following code.
 
