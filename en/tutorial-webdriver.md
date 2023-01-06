@@ -27,12 +27,12 @@
 
 ### Legend
 
-| Symbol | Description                            |
-| :---:  | :---                                   |
-| 🔊     | Audio commentary                       |
-| 📑     | Subchapter                             |
-| 🎲     | Shortcut: Setup script (for lazy ones) |
-| 👨‍💻     | Code snippets                          |
+| Symbol | Description                                   |
+| :---:  | :---                                          |
+| 🔊     | Audio commentary                              |
+| 📑     | Subchapter                                    |
+| 🎲     | Shortcut: Setup code snippets (for lazy ones) |
+| 👨‍💻     | Code snippets (WebDriver)                     |
 
 <br>
 
