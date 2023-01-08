@@ -32,7 +32,7 @@
 | 🔊     | Audio commentary                              |
 | 📑     | Subchapter                                    |
 | 🎲     | Shortcut: Setup code snippets (for lazy ones) |
-| 👨‍💻     | Code snippets (WebDriver)                     |
+| 👨‍💻     | Code snippets                                 |
 | 🔮     | Test: Current code state                      |
 
 <br>

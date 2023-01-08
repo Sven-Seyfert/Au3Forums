@@ -32,7 +32,7 @@
 | 🔊     | Audiokommentar                             |
 | 📑     | Unterkapitel                               |
 | 🎲     | Abkürzung: Setup code snippets (für Faule) |
-| 👨‍💻     | Code snippets (WebDriver)                  |
+| 👨‍💻     | Code snippets                              |
 | 🔮     | Test: Aktueller Stand des Codes            |
 
 <br>
