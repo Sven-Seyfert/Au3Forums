@@ -316,7 +316,30 @@ Opt('MustDeclareVars', 1)
 
 ```
 
-sdsd
+👨‍💻 Nun binden wir die ersten "Module" ein und rufen unsere erste Funktion `_Actions()` auf, welche wir in `ActionHandler.au3` (dort wird der Programmablauf gesteuert) erstellen.
+
+`Main.au3`
+
+``` php
+; modules ----------------------------------------------------------------------
+#include "Initializer.au3"
+#include "ActionHandler.au3"
+#include "WebDriver.au3"
+#include "Helper.au3"
+
+
+
+; processing -------------------------------------------------------------------
+_Actions()
+```
+
+`ActionHandler.au3`
+
+``` php
+Func _Actions()
+    ; do something
+EndFunc
+```
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
 

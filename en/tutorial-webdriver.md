@@ -316,6 +316,31 @@ Opt('MustDeclareVars', 1)
 
 ```
 
+👨‍💻 Now we include the first "modules" and call our first function `_Actions()`, which we create in `ActionHandler.au3` (where the program flow is controlled).
+
+`Main.au3`
+
+``` php
+; modules ----------------------------------------------------------------------
+#include "Initializer.au3"
+#include "ActionHandler.au3"
+#include "WebDriver.au3"
+#include "Helper.au3"
+
+
+
+; processing -------------------------------------------------------------------
+_Actions()
+```
+
+`ActionHandler.au3`
+
+``` php
+Func _Actions()
+    ; do something
+EndFunc
+```
+
 [· to the subchapter start ·](#-modularization)
 
 <br>
