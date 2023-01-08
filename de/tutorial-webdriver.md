@@ -346,7 +346,7 @@ EndFunc
 
 🔮 Test: AutoIt syntax check (Au3Check)
 
-Mit dem syntax check `[STRG] + [F5]` sollte das bisherige Projekt keine Fehler haben/auflisten.
+Mit dem syntax check `[STRG] + [F5]` sollte das Projekt keine Fehler haben/auflisten.
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
 
