@@ -33,6 +33,7 @@
 | 📑     | Unterkapitel                               |
 | 🎲     | Abkürzung: Setup code snippets (für Faule) |
 | 👨‍💻     | Code snippets (WebDriver)                  |
+| 🔮     | Test: Aktueller Stand des Codes            |
 
 <br>
 
@@ -342,6 +343,10 @@ Func _Actions()
     ; do something
 EndFunc
 ```
+
+🔮 Test: AutoIt syntax check (Au3Check)
+
+Mit dem syntax check `[STRG] + [F5]` sollte das bisherige Projekt keine Fehler haben/auflisten.
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
 

@@ -33,6 +33,7 @@
 | 📑     | Subchapter                                    |
 | 🎲     | Shortcut: Setup code snippets (for lazy ones) |
 | 👨‍💻     | Code snippets (WebDriver)                     |
+| 🔮     | Test: Current code state                      |
 
 <br>
 
@@ -342,6 +343,10 @@ Func _Actions()
     ; do something
 EndFunc
 ```
+
+🔮 Test: AutoIt syntax check (Au3Check)
+
+With the syntax check `[CTRL] + [F5]` the previous project shouldn't have/list any errors.
 
 [· to the subchapter start ·](#-modularization)
 
