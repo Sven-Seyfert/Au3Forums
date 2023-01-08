@@ -344,9 +344,9 @@ Func _Actions()
 EndFunc
 ```
 
-🔮 Test: AutoIt syntax check (Au3Check)
+🔮 Test: AutoIt syntax check
 
-Mit dem syntax check `[STRG] + [F5]` sollte das Projekt keine Fehler haben/auflisten.
+Mit dem "Au3Check" `[STRG] + [F5]` sollte das Projekt keine Fehler haben/auflisten.
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
 
