@@ -290,6 +290,8 @@ EndFunc
 
 👨‍💻 We start with our `Main.au3` file which is the entry point of the (browser automation) program. Let's create small sections which will be filled with content and context step by step.
 
+`Main.au3`
+
 ``` php
 #AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
 #AutoIt3Wrapper_UseUpx=n
