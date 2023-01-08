@@ -31,6 +31,7 @@
 | :---:  | :---                                          |
 | 🔊     | Audio commentary                              |
 | 📑     | Subchapter                                    |
+| 🖼     | Screenshot                                    |
 | 🎲     | Shortcut: Setup code snippets (for lazy ones) |
 | 👨‍💻     | Code snippets                                 |
 | 🔮     | Test: Current code state                      |
@@ -183,7 +184,7 @@ Downloads:
 First, we create the project folder which is called **Tutorial** in this example. This folder gets the following seven subfolders.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Project folders</summary>
+<summary class="px-3 py-2 border-bottom">🖼 Project folders</summary>
 
   <img src="./media/images/project-folders.jpg" alt="project-folders" class="d-block rounded-bottom-2 width-fit">
 
@@ -192,7 +193,7 @@ First, we create the project folder which is called **Tutorial** in this example
 Now the folders **lib** and **util** get subfolders.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Subfolders</summary>
+<summary class="px-3 py-2 border-bottom">🖼 Subfolders</summary>
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
@@ -245,7 +246,7 @@ What is meant by modularization here is nothing more than a division of code int
 We create the following five `*.au3` files in the `src` folder.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Initial files</summary>
+<summary class="px-3 py-2 border-bottom">🖼 Initial files</summary>
 
   <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
 

@@ -31,6 +31,7 @@
 | :---:  | :---                                       |
 | 🔊     | Audiokommentar                             |
 | 📑     | Unterkapitel                               |
+| 🖼     | Screenshot                                 |
 | 🎲     | Abkürzung: Setup code snippets (für Faule) |
 | 👨‍💻     | Code snippets                              |
 | 🔮     | Test: Aktueller Stand des Codes            |
@@ -192,7 +193,7 @@ Wir legen erstmal den Projekt-Ordner an, der in diesem Beispiel **Tutorial** hei
 Nun bekommen die Ordner **lib** und **util** noch Unterordner.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Unterordner</summary>
+<summary class="px-3 py-2 border-bottom">🖼 Unterordner</summary>
 
   <img src="./media/images/subfolders.jpg" alt="subfolders" class="d-block rounded-bottom-2 width-fit">
 
@@ -245,7 +246,7 @@ Was hier mit Modularisierung gemeint ist, ist erstmal nichts anderes als eine Au
 Wir erstellen im `src` Ordner die folgenden fünf `*.au3` Dateien.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">Initiale Dateien</summary>
+<summary class="px-3 py-2 border-bottom">🖼 Initiale Dateien</summary>
 
   <img src="./media/images/initial-files-in-src-folder.jpg" alt="initial-files-in-src-folder" class="d-block rounded-bottom-2 width-fit">
 
