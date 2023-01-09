@@ -34,6 +34,7 @@ I really hope that fits your feeling about it.
 | @Mat                | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @mLipok             | mlipok            | [Projects](https://github.com/mlipok?tab=repositories&q=&type=&language=autoit&sort=)            |
 | @rcmaehl            | rcmaehl           | [Projects](https://github.com/rcmaehl?tab=repositories&q=&type=&language=autoit&sort=)           |
+| @seadoggie01        | seadoggie01       | [Projects](https://github.com/seadoggie01?tab=repositories&q=&type=&language=autoit&sort=)       |
 | @seangriffin        | seanhaydongriffin | [Projects](https://github.com/seanhaydongriffin?tab=repositories&q=&type=&language=autoit&sort=) |
 | @SOLVE-SMART        | Sven-Seyfert      | [Projects](https://github.com/Sven-Seyfert?tab=repositories&q=&type=&language=autoit&sort=)      |
 | @TheDcoder          | TheDcoder         | [Projects](https://github.com/TheDcoder?tab=repositories&q=&type=&language=autoit&sort=)         |
