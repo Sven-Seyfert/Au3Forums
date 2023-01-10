@@ -347,7 +347,7 @@ EndFunc
 
 🔮 Test: AutoIt syntax check
 
-With the "Au3Check" `[CTRL] + [F5]` the project shouldn't have/list any errors.
+With the "Au3Check" `[CTRL] + [F5]` (starting from Main.au3) the project shouldn't have/list any errors.
 
 [· to the subchapter start ·](#-modularization)
 
