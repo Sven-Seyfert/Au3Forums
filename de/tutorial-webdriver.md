@@ -349,6 +349,13 @@ EndFunc
 
 Mit dem "Au3Check" `[STRG] + [F5]` (von Main.au3 ausgehend) sollte das Projekt keine Fehler haben/auflisten.
 
+<details class="details-reset border rounded-2">
+<summary class="px-3 py-2 border-bottom">🖼 ...</summary>
+
+  <img src="./media/images/...jpg" alt="... class="d-block rounded-bottom-2 width-fit">
+
+</details><p></p>
+
 Wie bereits oben erwähnt, werden wir die Module (*.au3 Dateien), nach und nach mit Leben füllen. Bis hier her haben wir erstmal nur Sorge dafür getragen, dass wir zukünftigen Code an die passende Stelle einordnen können. Natürlich wird es weitere Abstraktionen geben und wir werden weitere Module erstellen, welche wir dann ebenfalls per `#include "datei.au3"` in `Main.au3` einbinden werden.
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
