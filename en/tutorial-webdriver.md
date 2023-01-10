@@ -349,6 +349,8 @@ EndFunc
 
 With the "Au3Check" `[CTRL] + [F5]` (starting from Main.au3) the project shouldn't have/list any errors.
 
+As already mentioned above, we will gradually fill the modules (*.au3 files) with life. So far we have only made sure that we can classify future code in the right place. Of course there will be further abstractions and we will create further modules, which we will then also include in `Main.au3` using `#include "file.au3"`.
+
 [· to the subchapter start ·](#-modularization)
 
 <br>
