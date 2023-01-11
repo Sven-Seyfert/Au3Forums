@@ -4,10 +4,11 @@
 
 Opt('MustDeclareVars', 1)
 
-Global Const $iGuiCloseFlag      = -3
-Global Const $iControlShowFlag   = 16
-Global Const $iControlHideFlag   = 32
-Global Const $iControlEnableFlag = 64
+Global Const $iGuiCloseFlag       = -3
+Global Const $iControlShowFlag    = 16
+Global Const $iControlHideFlag    = 32
+Global Const $iControlEnableFlag  = 64
+Global Const $iControlDisableFlag = 128
 
 Global $cLabel, $cToggleButton
 
@@ -23,13 +24,21 @@ While True
 WEnd
 
 Func _CreateGui()
-    Local Const $hGui = GUICreate('Test', 270, 150)
+    Local Const $iWidth  = 270
+    Local Const $iHeight = 150
+
+    Local Const $hGui = GUICreate('Test', $iWidth, $iHeight)
+
+    Local Const $sImageFilePath = 'C:\Windows\Web\Wallpaper\Windows\img0.jpg'
+    Local Const $cBackgoundImage = GUICtrlCreatePic($sImageFilePath, 0, 0, $iWidth, $iHeight)
 
     $cLabel        = GUICtrlCreateLabel('Label-Test', 10, 20, 250)
     $cToggleButton = GUICtrlCreateButton('Anzeigen', 10, 80, 250)
 
+    GUICtrlSetState($cBackgoundImage, $iControlDisableFlag)
     GUICtrlSetState($cLabel, $iControlHideFlag)
     GUICtrlSetFont($cLabel, 13)
+
     GUISetState(@SW_SHOW, $hGui)
 EndFunc
 
