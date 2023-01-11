@@ -5,6 +5,7 @@
 Opt('MustDeclareVars', 1)
 
 Global Const $iGuiCloseFlag       = -3
+Global Const $iControlTransparent = -2
 Global Const $iControlShowFlag    = 16
 Global Const $iControlHideFlag    = 32
 Global Const $iControlEnableFlag  = 64
@@ -37,6 +38,7 @@ Func _CreateGui()
 
     GUICtrlSetState($cBackgoundImage, $iControlDisableFlag)
     GUICtrlSetState($cLabel, $iControlHideFlag)
+    GUICtrlSetBkColor($cLabel, $iControlTransparent)
     GUICtrlSetFont($cLabel, 13)
 
     GUISetState(@SW_SHOW, $hGui)
