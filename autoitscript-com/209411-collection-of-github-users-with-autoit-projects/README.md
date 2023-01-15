@@ -34,6 +34,7 @@ I really hope that fits your feeling about it.
 | @LoganCH       | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
 | @Mat           | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @mLipok        | mlipok            | [Projects](https://github.com/mlipok?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @philpw99      | philpw99          | [Projects](https://github.com/philpw99?tab=repositories&q=&type=&language=autoit&sort=)          |
 | @rcmaehl       | rcmaehl           | [Projects](https://github.com/rcmaehl?tab=repositories&q=&type=&language=autoit&sort=)           |
 | @Rurorita      | OfficialLambdax   | [Projects](https://github.com/OfficialLambdax?tab=repositories&q=&type=&language=autoit&sort=)   |
 | @seadoggie01   | seadoggie01       | [Projects](https://github.com/seadoggie01?tab=repositories&q=&type=&language=autoit&sort=)       |
@@ -43,6 +44,8 @@ I really hope that fits your feeling about it.
 | @TheDcoder     | TheDcoder         | [Projects](https://github.com/TheDcoder?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @TheSaint      | Twombs            | [Projects](https://github.com/Twombs?tab=repositories&q=&type=&language=autoit&sort=)            |
 | @trancexx      | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
+
+Σ = 20
 
 I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
 and improvement change, regarding AutoIt on GitHub 😊 .<br>
