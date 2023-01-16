@@ -22,30 +22,36 @@ I really hope that fits your feeling about it.
 
 **Collection (in progress):**
 
-| Forum username | GitHub username   | Link to the GitHub projects (filtered by language=autoit)                                        |
-| ---            | ---               | ---                                                                                              |
-| @Alan72104     | Alan72104         | [Projects](https://github.com/Alan72104?tab=repositories&q=&type=&language=autoit&sort=)         |
-| @alexanr1      | alexanr1          | [Projects](https://github.com/alexanr1?tab=repositories&q=&type=&language=autoit&sort=)          |
-| @Danp2         | Danp2             | [Projects](https://github.com/Danp2?tab=repositories&q=&type=&language=autoit&sort=)             |
-| @genius257     | genius257         | [Projects](https://github.com/genius257?tab=repositories&q=&type=&language=autoit&sort=)         |
-| @J2TeaM        | J2TEAM            | [Projects](https://github.com/J2TEAM?tab=repositories&q=&type=&language=autoit&sort=)            |
-| @James         | jbrooksuk         | [Projects](https://github.com/jbrooksuk?tab=repositories&q=&type=&language=autoit&sort=)         |
-| @jvanegmond    | jvanegmond        | [Projects](https://github.com/jvanegmond?tab=repositories&q=&type=&language=autoit&sort=)        |
-| @LoganCH       | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
-| @Mat           | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
-| @mLipok        | mlipok            | [Projects](https://github.com/mlipok?tab=repositories&q=&type=&language=autoit&sort=)            |
-| @philpw99      | philpw99          | [Projects](https://github.com/philpw99?tab=repositories&q=&type=&language=autoit&sort=)          |
-| @rcmaehl       | rcmaehl           | [Projects](https://github.com/rcmaehl?tab=repositories&q=&type=&language=autoit&sort=)           |
-| @Rurorita      | OfficialLambdax   | [Projects](https://github.com/OfficialLambdax?tab=repositories&q=&type=&language=autoit&sort=)   |
-| @seadoggie01   | seadoggie01       | [Projects](https://github.com/seadoggie01?tab=repositories&q=&type=&language=autoit&sort=)       |
-| @seangriffin   | seanhaydongriffin | [Projects](https://github.com/seanhaydongriffin?tab=repositories&q=&type=&language=autoit&sort=) |
-| @smbape        | smbape            | [Projects](https://github.com/smbape?tab=repositories&q=&type=&language=autoit&sort=)            |
-| @SOLVE-SMART   | Sven-Seyfert      | [Projects](https://github.com/Sven-Seyfert?tab=repositories&q=&type=&language=autoit&sort=)      |
-| @TheDcoder     | TheDcoder         | [Projects](https://github.com/TheDcoder?tab=repositories&q=&type=&language=autoit&sort=)         |
-| @TheSaint      | Twombs            | [Projects](https://github.com/Twombs?tab=repositories&q=&type=&language=autoit&sort=)            |
-| @trancexx      | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
+| Forum username   | GitHub username   | Link to the GitHub projects (filtered by language=autoit)                                        |
+| ---              | ---               | ---                                                                                              |
+| @Alan72104       | Alan72104         | [Projects](https://github.com/Alan72104?tab=repositories&q=&type=&language=autoit&sort=)         |
+| @alexanr1        | alexanr1          | [Projects](https://github.com/alexanr1?tab=repositories&q=&type=&language=autoit&sort=)          |
+| @Danp2           | Danp2             | [Projects](https://github.com/Danp2?tab=repositories&q=&type=&language=autoit&sort=)             |
+| @genius257       | genius257         | [Projects](https://github.com/genius257?tab=repositories&q=&type=&language=autoit&sort=)         |
+| @J2TeaM          | J2TEAM            | [Projects](https://github.com/J2TEAM?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @James           | jbrooksuk         | [Projects](https://github.com/jbrooksuk?tab=repositories&q=&type=&language=autoit&sort=)         |
+| @jvanegmond      | jvanegmond        | [Projects](https://github.com/jvanegmond?tab=repositories&q=&type=&language=autoit&sort=)        |
+| @lamnhan066      | lamnhan066        | [Projects](https://github.com/lamnhan066?tab=repositories&q=&type=&language=autoit&sort=)        |
+| @LinkOut         | xLinkOut          | [Projects](https://github.com/xLinkOut?tab=repositories&q=&type=&language=autoit&sort=)          |
+| @LoganCH         | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
+| @Mat             | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
+| @mLipok          | mlipok            | [Projects](https://github.com/mlipok?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @oHenry          | htejera           | [Projects](https://github.com/htejera?tab=repositories&q=&type=&language=autoit&sort=)           |
+| @philpw99        | philpw99          | [Projects](https://github.com/philpw99?tab=repositories&q=&type=&language=autoit&sort=)          |
+| @rcmaehl         | rcmaehl           | [Projects](https://github.com/rcmaehl?tab=repositories&q=&type=&language=autoit&sort=)           |
+| @Rurorita        | OfficialLambdax   | [Projects](https://github.com/OfficialLambdax?tab=repositories&q=&type=&language=autoit&sort=)   |
+| @seadoggie01     | seadoggie01       | [Projects](https://github.com/seadoggie01?tab=repositories&q=&type=&language=autoit&sort=)       |
+| @seangriffin     | seanhaydongriffin | [Projects](https://github.com/seanhaydongriffin?tab=repositories&q=&type=&language=autoit&sort=) |
+| @smbape          | smbape            | [Projects](https://github.com/smbape?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @SOLVE-SMART     | Sven-Seyfert      | [Projects](https://github.com/Sven-Seyfert?tab=repositories&q=&type=&language=autoit&sort=)      |
+| @Stilgar         | THWillert         | [Projects](https://github.com/THWillert?tab=repositories&q=&type=&language=autoit&sort=)         |
+| @Surya           | thesunRider       | [Projects](https://github.com/thesunRider?tab=repositories&q=&type=&language=autoit&sort=)       |
+| @tarretarretarre | tarreislam        | [Projects](https://github.com/tarreislam?tab=repositories&q=&type=&language=autoit&sort=)        |
+| @TheDcoder       | TheDcoder         | [Projects](https://github.com/TheDcoder?tab=repositories&q=&type=&language=autoit&sort=)         |
+| @TheSaint        | Twombs            | [Projects](https://github.com/Twombs?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @trancexx        | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
 
-Σ = 20
+Σ = 26
 
 I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
 and improvement change, regarding AutoIt on GitHub 😊 .<br>
