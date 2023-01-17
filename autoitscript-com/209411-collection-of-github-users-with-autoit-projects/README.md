@@ -36,6 +36,7 @@ I really hope that fits your feeling about it.
 | @LoganCH         | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
 | @Mat             | MattDiesel        | [Projects](https://github.com/MattDiesel?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @mLipok          | mlipok            | [Projects](https://github.com/mlipok?tab=repositories&q=&type=&language=autoit&sort=)            |
+| @NHD             | nomi-san          | [Projects](https://github.com/nomi-san/true-autoit-multi-threading)                              |
 | @oHenry          | htejera           | [Projects](https://github.com/htejera?tab=repositories&q=&type=&language=autoit&sort=)           |
 | @philpw99        | philpw99          | [Projects](https://github.com/philpw99?tab=repositories&q=&type=&language=autoit&sort=)          |
 | @rcmaehl         | rcmaehl           | [Projects](https://github.com/rcmaehl?tab=repositories&q=&type=&language=autoit&sort=)           |
@@ -51,7 +52,7 @@ I really hope that fits your feeling about it.
 | @TheSaint        | Twombs            | [Projects](https://github.com/Twombs?tab=repositories&q=&type=&language=autoit&sort=)            |
 | @trancexx        | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
 
-Σ = 26
+Σ = 27
 
 I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
 and improvement change, regarding AutoIt on GitHub 😊 .<br>
