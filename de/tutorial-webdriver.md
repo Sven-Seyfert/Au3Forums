@@ -353,7 +353,7 @@ EndFunc
 Mit dem "Au3Check" `[STRG] + [F5]` (von Main.au3 ausgehend) sollte das Projekt keine Fehler haben/auflisten.
 
 <details class="details-reset border rounded-2">
-<summary class="px-3 py-2 border-bottom">🖼 ...</summary>
+<summary class="px-3 py-2 border-bottom">🖼 ... TODO ...</summary>
 
   <img src="./media/images/...jpg" alt="... class="d-block rounded-bottom-2 width-fit">
 
