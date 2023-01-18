@@ -295,8 +295,11 @@ EndFunc
 `Main.au3`
 
 ``` php
+#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7
 #AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
+#AutoIt3Wrapper_Run_Au3Stripper=y
 #AutoIt3Wrapper_UseUpx=n
+#Au3Stripper_Parameters=/sf /sv /mo /rm /rsln
 
 
 
@@ -588,6 +591,14 @@ Qui et ab impedit qui ipsam omnis numquam. Officiis doloribus id. Aliquid volupt
 
 <br>
 
+### 📑 Mehrere Elemente finden
+
+Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+[· zum Unterkapitelanfang ·](#-mehrere-elemente-finden)
+
+<br>
+
 ### 📑 Auf Elemente warten
 
 Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
@@ -596,11 +607,27 @@ Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ip
 
 <br>
 
-### 📑 Mehrere Elemente finden
+### 📑 Text eines Elements erhalten
 
-Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
 
-[· zum Unterkapitelanfang ·](#-mehrere-elemente-finden)
+[· to the subchapter start ·](#-text-eines-elements-erhalten)
+
+<br>
+
+### 📑 Text mehrerer Elemente erhalten
+
+Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
+
+[· to the subchapter start ·](#-text-mehrerer-elemente-erhalten)
+
+<br>
+
+### 📑 Wert eines Attributes erhalten
+
+Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
+
+[· to the subchapter start ·](#-wert-eines-attributes-erhalten)
 
 <br>
 

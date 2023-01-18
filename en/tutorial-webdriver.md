@@ -86,7 +86,7 @@ In this tutorial, I will cover the following key areas, among others:
 I will **not** address the following key areas in this tutorial:
 
 - What is CDP (Chrome DevTools Protocol) and how to deal with.
-- Helpers tools like SelectorsHub (to simplify XPath selector creation).
+- Helper tools like SelectorsHub (to simplify XPath selector creation).
 - How to connect to a running browser instance.
 - How to keep the WebDriver environment up-to-date (the automated way).
 - Troubleshooting of common issues.
@@ -295,8 +295,11 @@ EndFunc
 `Main.au3`
 
 ``` php
+#AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 3 -w 4 -w 5 -w 6 -w 7
 #AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
+#AutoIt3Wrapper_Run_Au3Stripper=y
 #AutoIt3Wrapper_UseUpx=n
+#Au3Stripper_Parameters=/sf /sv /mo /rm /rsln
 
 
 
@@ -581,6 +584,14 @@ Qui et ab impedit qui ipsam omnis numquam. Officiis doloribus id. Aliquid volupt
 
 <br>
 
+### 📑 Find multiple elements
+
+Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+[· to the subchapter start ·](#-find-multiple-elements)
+
+<br>
+
 ### 📑 Wait for elements
 
 Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ipsam doloremque voluptas tempora. Id velit nulla veniam. Ratione accusantium rerum eum. Voluptas doloribus sed dolorum nostrum.
@@ -589,11 +600,27 @@ Atque reprehenderit quidem rerum accusantium ullam neque incidunt illo animi. Ip
 
 <br>
 
-### 📑 Find multiple elements
+### 📑 Get element text
 
 Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
 
-[· to the subchapter start ·](#-find-multiple-elements)
+[· to the subchapter start ·](#-get-element-text)
+
+<br>
+
+### 📑 Get texts of multiple elements
+
+Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+[· to the subchapter start ·](#-get-texts-of-multiple-elements)
+
+<br>
+
+### 📑 Get value of attribute
+
+Deleniti omnis velit nihil deserunt ipsam sed eos et accusantium. Quod quam fuga et molestiae fugiat. Quibusdam in perspiciatis corrupti non praesentium aliquam quo id et.
+
+[· to the subchapter start ·](#-get-value-of-attributes)
 
 <br>
 
