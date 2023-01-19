@@ -359,7 +359,7 @@ Mit dem "Au3Check" `[STRG] + [F5]` (von Main.au3 ausgehend) sollte das Projekt k
 
 </details><p></p>
 
-Wie bereits oben erwähnt, werden wir die Module (*.au3 Dateien), nach und nach mit Leben füllen. Bis hier her haben wir erstmal nur Sorge dafür getragen, dass wir zukünftigen Code an die passende Stelle einordnen können. Natürlich wird es weitere Abstraktionen geben und wir werden weitere Module erstellen, welche wir dann ebenfalls per `#include "datei.au3"` in `Main.au3` einbinden werden.
+Wie bereits oben erwähnt, werden wir die Module (*.au3 Dateien), nach und nach mit Leben füllen. Bis hier her haben wir erstmal nur Sorge dafür getragen, dass wir zukünftigen Code an die passende Stelle einordnen können. Natürlich wird es weitere Abstraktionen geben und wir werden weitere Module erstellen, welche wir dann ebenfalls per `#include "NeueModulDatei.au3"` in `Main.au3` einbinden werden.
 
 [· zum Unterkapitelanfang ·](#-modularisierung)
 
@@ -655,11 +655,11 @@ Quia ut inventore. Id veniam totam dolor quas. Est sunt perspiciatis.
 
 <br>
 
-### 📑 Verwendung von POM (page object model)
+### 📑 Optional: Verwendung von POM (page object model)
 
 Porro reiciendis architecto quisquam sit.
 
-[· zum Unterkapitelanfang ·](#-verwendung-von-pom-page-object-model)
+[· to the subchapter start ·](#-optional-verwendung-von-pom-page-object-model)
 
 <br>
 
