@@ -77,7 +77,7 @@ Func _AddClosingCrossIcon()
     GUICtrlSetBkColor($mClosingCrossIcon.cId, $mTitleBarColor.background)
 
     ; icon
-    GUICtrlCreateLabel('Í', ($mGui.Width - 31), 5.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
+    GUICtrlCreateLabel(ChrW(0xCD), ($mGui.Width - 31), 5.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
     GUICtrlSetFont(-1, 14, 100, Default, 'Wingdings 2')
     GUICtrlSetBkColor(-1, $GUI_BKCOLOR_TRANSPARENT)
 EndFunc
@@ -88,7 +88,7 @@ Func _AddMaximizeIcon()
     GUICtrlSetBkColor(-1, $mTitleBarColor.background)
 
     ; icon
-    GUICtrlCreateLabel('£', ($mGui.Width - 75), 6.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
+    GUICtrlCreateLabel(ChrW(0xA3), ($mGui.Width - 75), 6.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
     GUICtrlSetFont(-1, 11, 100, Default, 'Wingdings 2')
     GUICtrlSetBkColor(-1, $GUI_BKCOLOR_TRANSPARENT)
     GUICtrlSetColor(-1, 0xCCCCCC)
@@ -105,7 +105,7 @@ Func _AddMinimizeIcon()
     GUICtrlSetBkColor($mMinimizeIcon.cId, $mTitleBarColor.background)
 
     ; icon
-    GUICtrlCreateLabel('—', ($mGui.Width - 119), 6.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
+    GUICtrlCreateLabel(ChrW(0x2015), ($mGui.Width - 119), 6.5, $mTitleBar.ButtonWidth, $mTitleBar.ButtonHeight)
     GUICtrlSetFont(-1, 8, 100, Default, 'Segoe UI')
     GUICtrlSetBkColor(-1, $GUI_BKCOLOR_TRANSPARENT)
 EndFunc
