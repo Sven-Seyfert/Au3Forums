@@ -38,6 +38,7 @@ I really hope that fits your feeling about it.
 | @James           | jbrooksuk         | [Projects](https://github.com/jbrooksuk?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @Jefrey          | jesobreira        | [Projects](https://github.com/jesobreira?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @jvanegmond      | jvanegmond        | [Projects](https://github.com/jvanegmond?tab=repositories&q=&type=&language=autoit&sort=)        |
+| @kurtykurtyboy   | KurtisLiggett     | [Projects](https://github.com/KurtisLiggett?tab=repositories&q=&type=&language=autoit&sort=)     |
 | @lamnhan066      | lamnhan066        | [Projects](https://github.com/lamnhan066?tab=repositories&q=&type=&language=autoit&sort=)        |
 | @LinkOut         | xLinkOut          | [Projects](https://github.com/xLinkOut?tab=repositories&q=&type=&language=autoit&sort=)          |
 | @LoganCH         | loganch           | [Projects](https://github.com/loganch/AutoIt-VSCode)                                             |
@@ -66,7 +67,7 @@ I really hope that fits your feeling about it.
 | @trancexx        | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @vietanhdev      | vietanhdev        | [Projects](https://github.com/vietanhdev?tab=repositories&q=&type=&language=autoit&sort=)        |
 
-**Σ = 39**
+**Σ = 40**
 
 I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
 and improvement change, regarding AutoIt on GitHub 😊 .<br>
