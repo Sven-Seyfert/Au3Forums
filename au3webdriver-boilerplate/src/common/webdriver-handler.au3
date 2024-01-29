@@ -1,14 +1,29 @@
 Func _GetNewestDriver()
-    Local Const $sDriverPath = _PathFull('..\utils\driver')
+    Local Const $sDriverPath = _PathFull('..\driver')
     _WD_UpdateDriver(StringLower($mConfig.Driver), $sDriverPath)
 EndFunc
 
 Func _SetLogLevel()
     ; HINT: Global constants provided in "wd_core.au3" file.
-    ;~ $_WD_DEBUG = $_WD_DEBUG_None ; no logging
-    $_WD_DEBUG = $_WD_DEBUG_Error   ; logging in case of error
-    ;~ $_WD_DEBUG = $_WD_DEBUG_Info ; logging with additional information
-    ;~ $_WD_DEBUG = $_WD_DEBUG_Full ; logging with full details for developers
+    ; The following values are provided.
+    ; $_WD_DEBUG_None  => no logging
+    ; $_WD_DEBUG_Error => logging in case of error
+    ; $_WD_DEBUG_Info  => logging with additional information
+    ; $_WD_DEBUG_Full  => logging with full details for developers
+
+    $_WD_DEBUG = $_WD_DEBUG_Error
+EndFunc
+
+Func _SetLocatorStrategy(ByRef $mConfig)
+    ; HINT: Global constants provided in "wd_core.au3" file.
+    ; The following values are provided.
+    ; $_WD_LOCATOR_ByCSSSelector     => css selector
+    ; $_WD_LOCATOR_ByXPath           => xpath
+    ; $_WD_LOCATOR_ByLinkText        => link text
+    ; $_WD_LOCATOR_ByPartialLinkText => partial link text
+    ; $_WD_LOCATOR_ByTagName         => tag name
+
+    $mConfig.LocatorStrategy = $_WD_LOCATOR_ByXPath
 EndFunc
 
 Func _SetupDriver()
@@ -32,7 +47,7 @@ Func _SetupDriver()
 EndFunc
 
 Func _SetDriverOptions()
-    Local Const $sDriverPath = _PathFull('..\utils\driver')
+    Local Const $sDriverPath = _PathFull('..\driver')
 
     Local $mChrome[]
           $mChrome.Exe           = 'chromedriver.exe'
@@ -113,6 +128,10 @@ Func _BuildEdgeDriverCapabilities()
 EndFunc
 
 Func _TeardownDriver()
-    _WD_DeleteSession($sSession)
-    _WD_Shutdown()
+    If Not $bAlreadyTeardown Then
+        _WD_DeleteSession($sSession)
+        _WD_Shutdown()
+
+        $bAlreadyTeardown = True
+    EndIf
 EndFunc

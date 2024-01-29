@@ -15,9 +15,10 @@ OnAutoItExitRegister('_TeardownDriver')
 
 Global $mConfig[]
 Global $sSession
+Global $bAlreadyTeardown
 
-#include "helper.au3"
-#include "webdriver-handler.au3"
+#include "common\webdriver-handler.au3"
+#include "utils\helper.au3"
 #include "website-steps-handler.au3"
 
 _Main()
@@ -25,24 +26,26 @@ _Main()
 Func _Main()
     _SetGlobalValues($mConfig)
 
-    _GetNewestDriver() ; get the current webdriver version of the chosen browser
-    _SetLogLevel()     ; set log level to error which is fine in my opinion (reset it in the function)
-    _SetupDriver()     ; create webdriver session (for chrome or firefox)
+    _GetNewestDriver()            ; get the current webdriver version of the chosen browser
+    _SetLogLevel()                ; set log level to error (switch this in the function directly)
+    _SetLocatorStrategy($mConfig) ; set locator strategy to XPath (switch this in the function directly)
+    _SetupDriver()                ; create webdriver session (for chrome, firefox or msedge)
 
-    _Steps()           ; main website steps to automate (website automation flow)
+    _Steps()                      ; main website steps to automate (website automation flow)
 
-    _TeardownDriver()  ; shutdown webdriver (and browser)
+    _TeardownDriver()             ; shutdown webdriver (and browser)
 EndFunc
 
 Func _SetGlobalValues(ByRef $mConfig)
-    $mConfig.Driver         = 'chrome' ; chrome|firefox|msedge
-    $mConfig.IsHeadlessMode = False    ; False|True
-    $mConfig.Delay          = 300      ; delay for supporting a robust wait behavior (page load, clicks, texts)
-    $mConfig.BrowserWidth   = 1423     ; 1920
-    $mConfig.BrowserHeight  = 800      ; 1080
+    $mConfig.Driver          = 'chrome' ; chrome|firefox|msedge
+    $mConfig.IsHeadlessMode  = False    ; False|True
+    $mConfig.Delay           = 300      ; delay for supporting a robust waiting behavior (page load, clicks, texts etc.)
+    $mConfig.BrowserWidth    = 1920     ; or 1440, etc.
+    $mConfig.BrowserHeight   = 1080     ; or 810, etc.
+    $mConfig.LocatorStrategy = Null     ; will be set in function "_SetLocatorStrategy()"
 
     ; HINT: This is the default installation path, change this in case it's another on your system.
-    $mConfig.FirefoxBinary  = 'C:\Program Files\Mozilla Firefox\firefox.exe'
+    $mConfig.FirefoxBinary = 'C:\Program Files\Mozilla Firefox\firefox.exe'
+
+    $bAlreadyTeardown = False
 EndFunc
-
-

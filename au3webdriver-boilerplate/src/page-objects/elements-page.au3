@@ -1,20 +1,13 @@
-Func _CardHeadlineSelector($sText)
-    Return StringFormat('//div[@class="card-body"]/h5[contains(text(), "%s")]/parent::div/parent::div', $sText)
+Func _NavigateToTextBoxes()
+    _ClickElement(_CardHeadlineSelector('Elements'))
+    _ClickElement(_ListItemSelector('Text Box'))
 EndFunc
 
-Func _ListItemSelector($sText)
-    Return StringFormat('//ul[@class="menu-list"]/li/span[text()="%s"]/parent::li', $sText)
-EndFunc
+Func _FillFormTextBoxes()
+    _SetElementText(_UserNameInputSelector(), 'John Constantine')
+    _SetElementText(_EmailInputSelector(), 'john.constantine@gmail.com')
+    _SetElementText(_AddressInputSelector(), StringFormat('Dittrichring 17\n04109 Leipzig'))
 
-Func _UserNameInputSelector()
-    Return '//form[@id="userForm"]//input[@id="userName"]'
+    _TakeElementScreenshot(_EmailInputSelector())
+    _TakeScreenshot()
 EndFunc
-
-Func _EmailInputSelector()
-    Return '//form[@id="userForm"]//input[@id="userEmail"]'
-EndFunc
-
-Func _AddressInputSelector()
-    Return '//form[@id="userForm"]//textarea[@id="currentAddress"]'
-EndFunc
-

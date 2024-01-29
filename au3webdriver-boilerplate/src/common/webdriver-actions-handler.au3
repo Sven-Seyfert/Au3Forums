@@ -4,21 +4,21 @@ Func _NavigateTo($sUrl)
 EndFunc
 
 Func _ClickElement($sSelector)
-    _WaitFor($sSelector)
+    _WaitForVisible($sSelector)
     _WD_ElementAction($sSession, _FindElement($sSelector), 'click')
 EndFunc
 
-Func _WaitFor($sSelector)
+Func _WaitForVisible($sSelector)
     Local Const $iTimeoutInMilliseconds = 5000
     Local Const $iElementVisibleFlag    = 1
 
-    _WD_WaitElement($sSession, $_WD_LOCATOR_ByXPath, $sSelector, $mConfig.Delay, $iTimeoutInMilliseconds, $iElementVisibleFlag)
+    _WD_WaitElement($sSession, $mConfig.LocatorStrategy, $sSelector, $mConfig.Delay, $iTimeoutInMilliseconds, $iElementVisibleFlag)
 EndFunc
 
 Func _FindElement($sSelector)
-    Local $sElement = _WD_FindElement($sSession, $_WD_LOCATOR_ByXPath, $sSelector)
+    Local $sElement = _WD_FindElement($sSession, $mConfig.LocatorStrategy, $sSelector)
     If @error <> $_WD_ERROR_Success Then
-        ConsoleWrite('Error for XPath selector ''' & $sSelector & '''.' & @CRLF)
+        ConsoleWrite('Error for find element with selector ''' & $sSelector & '''.' & @CRLF)
         _TeardownDriver() ; HINT: Shutdown webdriver on error (optional, comment out if necessary).
     EndIf
 
@@ -26,11 +26,11 @@ Func _FindElement($sSelector)
 EndFunc
 
 Func _FindElements($sSelector)
-    Return _WD_FindElement($sSession, $_WD_LOCATOR_ByXPath, $sSelector, Default, True)
+    Return _WD_FindElement($sSession, $mConfig.LocatorStrategy, $sSelector, Default, True)
 EndFunc
 
 Func _GetElementText($sSelector)
-    _WaitFor($sSelector)
+    _WaitForVisible($sSelector)
 
     Return _WD_ElementAction($sSession, _FindElement($sSelector), 'text')
 EndFunc
@@ -49,7 +49,7 @@ Func _GetElementsTexts($sSelector)
 EndFunc
 
 Func _SetElementText($sSelector, $sValue)
-    _WaitFor($sSelector)
+    _WaitForVisible($sSelector)
     _WD_ElementAction($sSession, _FindElement($sSelector), 'value', $sValue)
 EndFunc
 
@@ -65,13 +65,12 @@ EndFunc
 
 Func _CreateScreenshotFile($sResponse)
     Local Const $bDecode         = __WD_Base64Decode($sResponse)
-    Local Const $sTimestamp      = @YEAR & @MON & @MDAY & '-' & @HOUR & @MIN & @SEC
+    Local Const $sTimestamp      = @YEAR & @MON & @MDAY & '-' & @HOUR & @MIN & @SEC & '.' & @MSEC
     Local Const $sScreenshotPath = _PathFull('..\data\output\')
-    ConsoleWrite($sScreenshotPath & @CRLF)
 
-    Local $hFile = FileOpen(_Backslash($sScreenshotPath) & $sTimestamp & '.png', $FO_BINARY + $FO_OVERWRITE)
-    FileWrite($hFile, $bDecode)
-    FileClose($hFile)
+    ConsoleWrite(_Backslash($sScreenshotPath) & $sTimestamp & '.png' & @CRLF)
+
+    _WriteFileBinary(_Backslash($sScreenshotPath) & $sTimestamp & '.png', $bDecode)
 EndFunc
 
 Func _EnterIFrame($sSelector)
