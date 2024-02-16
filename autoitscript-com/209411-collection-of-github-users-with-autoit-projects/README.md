@@ -28,6 +28,7 @@ I really hope that fits your feeling about it.
 | ---              | ---               | ---                                                                                              |
 | @Alan72104       | Alan72104         | [Projects](https://github.com/Alan72104?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @alexanr1        | alexanr1          | [Projects](https://github.com/alexanr1?tab=repositories&q=&type=&language=autoit&sort=)          |
+| @AspirinJunkie   | Sylvan86          | [Projects](https://github.com/Sylvan86?tab=repositories&q=&type=&language=autoit&sort=)          |
 | @Centrally       | ellysh            | [Projects](https://github.com/ellysh?tab=repositories&q=&type=&language=autoit&sort=)            |
 | @Danp2           | Danp2             | [Projects](https://github.com/Danp2?tab=repositories&q=&type=&language=autoit&sort=)             |
 | @Danyfirex       | DanysysTeam       | [Projects](https://github.com/orgs/DanysysTeam/repositories?q=&type=all&language=autoit&sort=)   |
@@ -67,7 +68,7 @@ I really hope that fits your feeling about it.
 | @trancexx        | dragana-r         | [Projects](https://github.com/dragana-r?tab=repositories&q=&type=&language=autoit&sort=)         |
 | @vietanhdev      | vietanhdev        | [Projects](https://github.com/vietanhdev?tab=repositories&q=&type=&language=autoit&sort=)        |
 
-**Σ = 40**
+**Σ = 41**
 
 I would love to see the list growing and I am very excited about a possibly upcoming behavior<br>
 and improvement change, regarding AutoIt on GitHub 😊 .<br>
