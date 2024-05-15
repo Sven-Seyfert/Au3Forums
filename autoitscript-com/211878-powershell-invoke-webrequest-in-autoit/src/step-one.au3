@@ -7,7 +7,7 @@
 _Main()
 
 Func _Main()
-    Local Const $sTargetMaschine     = '2024-04 21H2 Server'
+    Local Const $sTargetMaschine     = '2024-05 .net client'
     Local Const $sUrlMsUpdateCatalog = 'https://www.catalog.update.microsoft.com/Search.aspx?q=' & $sTargetMaschine
     Local Const $sFile               = 'step-one-result.html'
 

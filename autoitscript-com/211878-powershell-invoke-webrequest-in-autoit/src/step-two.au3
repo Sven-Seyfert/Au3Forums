@@ -1,11 +1,11 @@
 #AutoIt3Wrapper_AU3Check_Parameters=-d -w 1 -w 2 -w 4 -w 5 -w 6 -w 7
 #AutoIt3Wrapper_AU3Check_Stop_OnWarning=y
-
+#include <Array.au3>
 _Main()
 
 Func _Main()
     ; Target ID (GUID)
-    Local Const $sGuid = '1c09aabd-5134-4b57-9e50-454b6dd63ad0'
+    Local Const $sGuid = '33417ed0-31b0-4b58-9310-196886274926'
 
     ; Json body
     Local Const $sJson = 'updateIDs = [{ "uidInfo": "' & $sGuid & '", "updateID": "' & $sGuid & '", "size": 0 }]'
@@ -18,9 +18,29 @@ Func _Main()
     _WriteFile('result-autoit.html', $sResponse)
 
     ; Get only the download URL(s) for the cumulative update (based by the GUID on top).
-    Local Const $sRegExPattern = '(?s)\.files?\[\d+\]\.url(\s+)?=(\s+)?''(.+?.msu)'
-    Local Const $aMatches = StringRegExp($sResponse, $sRegExPattern, 3)
-    ConsoleWrite($aMatches[_Length($aMatches)] & @CRLF)
+    Local Const $sRegExPattern = '(?s)\.files?\[\d+\]\.url(\s+)?=(\s+)?''(.+?.msu|.+?.exe)'
+    Local $aMatches = StringRegExp($sResponse, $sRegExPattern, 3)
+
+    _ArrayRemoveEmptyLines($aMatches)
+    _ArrayDisplay($aMatches, 1)
+    _ArrayFilterFor($aMatches, 'windowsdesktop')
+    _ArrayDisplay($aMatches, 2)
+EndFunc
+
+Func _ArrayRemoveEmptyLines(ByRef $aArray)
+    For $i = _Length($aArray) To 0 Step -1
+        If $aArray[$i] == '' Or $aArray[$i] == ' ' Then
+            _ArrayDelete($aArray, $i)
+        EndIf
+    Next
+EndFunc
+
+Func _ArrayFilterFor(ByRef $aList, $sSearch)
+    For $i = _Length($aList) To 0 Step -1
+        If Not StringInStr($aList[$i], $sSearch) Then
+            _ArrayDelete($aList, $i)
+        EndIf
+    Next
 EndFunc
 
 Func _POST($sURL, $sJson)
